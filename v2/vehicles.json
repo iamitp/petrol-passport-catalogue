@@ -52,7 +52,7 @@
     "productionStart": "2nd Generation",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -150,7 +150,7 @@
     "productionStart": "2010-01",
     "productionStartDate": "2010-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -221,7 +221,7 @@
     "productionStart": "2018-01",
     "productionStartDate": "2018-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -294,7 +294,7 @@
     "productionStart": "Current range cited 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -397,7 +397,7 @@
     "productionStart": "Current Honda model range as at 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -447,6 +447,183 @@
       "ZX Black Edition"
     ],
     "variant": "Current Honda model range as at 6 February 2025"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "A usage limit, not a certification: the manual also advises discontinuing gasohol of any kind if drivability problems occur, and says nothing about calibration, certification or warranty.",
+        "headline": "Hyundai's owner manual for this generation permits petrol blended up to 20% ethanol (and prohibits methanol); treat this as the stated usage limit, not an E20 certification.",
+        "kind": "materials",
+        "state": "partiallySupported"
+      },
+      {
+        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Compact SUV",
+    "e20State": "partiallySupported",
+    "e25State": "notDeclared",
+    "engine": "1.4 l Kappa turbo GDi petrol",
+    "engineCode": null,
+    "engineDisplacementCC": 1353,
+    "evidenceTier": "exactOEM",
+    "fuelTankCapacityLitres": 50,
+    "fuelTankCapacitySourceID": "src_hyundai_creta_brochure_jan2023",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20 materials",
+    "id": "seed-veh_hyundai_creta_1p4_turbo_dct_2020_2023",
+    "make": "Hyundai",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Creta",
+    "nextAction": "Hyundai statement or homologation record naming this generation's E20 calibration or certification, and explicit warranty wording.",
+    "productionEnd": "2024-01",
+    "productionEndDate": null,
+    "productionStart": "2020-03",
+    "productionStartDate": "2020-03-01",
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "sources": [
+      {
+        "dateLabel": "Document date",
+        "id": "src_hyundai_creta_brochure_jan2023",
+        "issuer": "Hyundai Motor India Ltd.",
+        "publishedDate": "2023-01-15",
+        "retrievedDate": "2026-07-17",
+        "scope": "2020-2023 generation Creta India range: 1.5 l MPi petrol (1497 cc, 6MT/IVT), 1.4 l Kappa turbo GDi petrol (1353 cc, 103 kW / 242 Nm, 7-speed DCT), 50-litre fuel tank; trim plan E/EX/S/SX/SX(O)/Knight with the turbo in upper trims (p3-p4).",
+        "supportingText": "Specifications and trim plan only; the brochure makes no ethanol or E20 statement. Archived OEM document; local copy retained at DataResearch/brochures/hyundai-creta/.",
+        "title": "Hyundai CRETA brochure, Jan-Feb 2023 (Wayback Machine snapshot, 26 March 2023)",
+        "url": "https://web.archive.org/web/20230326155831/https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/creta-brochure.pdf"
+      },
+      {
+        "dateLabel": "Document date",
+        "id": "src_hyundai_creta_manual_2020_2024",
+        "issuer": "Hyundai Motor India Ltd.",
+        "publishedDate": "2020-09-01",
+        "retrievedDate": "2026-07-17",
+        "scope": "Fuel requirements for petrol-engine Creta manufactured September 2020 - January 2024: 'Do not use gasohol containing more than 20% ethanol, and do not use petrol or gasohol containing any methanol.' (p5).",
+        "supportingText": "A usage boundary, not an E20 certification or warranty statement; the manual also advises discontinuing gasohol if drivability problems occur. Local copy retained at DataResearch/brochures/hyundai-creta/.",
+        "title": "Creta owner's manual, September 2020 - January 2024 generation (Wayback Machine snapshot, 19 April 2025)",
+        "url": "https://web.archive.org/web/20250419081759/https://www.hyundai.com/content/dam/hyundai/in/en/data/connect-to-service/owners-manual/2025/creta-sep2020-Jan2024.pdf"
+      }
+    ],
+    "summary": "Hyundai's owner manual for this generation permits petrol blended up to 20% ethanol (and prohibits methanol); treat this as the stated usage limit, not an E20 certification. The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "DCT"
+    ],
+    "trimRangeApplicability": [
+      "Offered in upper trims including SX and SX(O) per the Jan-Feb 2023 brochure trim plan"
+    ],
+    "variant": "2020-2023 generation · 1.4 l Kappa turbo GDi petrol · 7-speed DCT"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "A usage limit, not a certification: the manual also advises discontinuing gasohol of any kind if drivability problems occur, and says nothing about calibration, certification or warranty.",
+        "headline": "Hyundai's owner manual for this generation permits petrol blended up to 20% ethanol (and prohibits methanol); treat this as the stated usage limit, not an E20 certification.",
+        "kind": "materials",
+        "state": "partiallySupported"
+      },
+      {
+        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Compact SUV",
+    "e20State": "partiallySupported",
+    "e25State": "notDeclared",
+    "engine": "1.5 l MPi petrol",
+    "engineCode": null,
+    "engineDisplacementCC": 1497,
+    "evidenceTier": "exactOEM",
+    "fuelTankCapacityLitres": 50,
+    "fuelTankCapacitySourceID": "src_hyundai_creta_brochure_jan2023",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20 materials",
+    "id": "seed-veh_hyundai_creta_1p5_mpi_2020_2023",
+    "make": "Hyundai",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Creta",
+    "nextAction": "Hyundai statement or homologation record naming this generation's E20 calibration or certification, and explicit warranty wording.",
+    "productionEnd": "2024-01",
+    "productionEndDate": null,
+    "productionStart": "2020-03",
+    "productionStartDate": "2020-03-01",
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "sources": [
+      {
+        "dateLabel": "Document date",
+        "id": "src_hyundai_creta_brochure_jan2023",
+        "issuer": "Hyundai Motor India Ltd.",
+        "publishedDate": "2023-01-15",
+        "retrievedDate": "2026-07-17",
+        "scope": "2020-2023 generation Creta India range: 1.5 l MPi petrol (1497 cc, 6MT/IVT), 1.4 l Kappa turbo GDi petrol (1353 cc, 103 kW / 242 Nm, 7-speed DCT), 50-litre fuel tank; trim plan E/EX/S/SX/SX(O)/Knight with the turbo in upper trims (p3-p4).",
+        "supportingText": "Specifications and trim plan only; the brochure makes no ethanol or E20 statement. Archived OEM document; local copy retained at DataResearch/brochures/hyundai-creta/.",
+        "title": "Hyundai CRETA brochure, Jan-Feb 2023 (Wayback Machine snapshot, 26 March 2023)",
+        "url": "https://web.archive.org/web/20230326155831/https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/creta-brochure.pdf"
+      },
+      {
+        "dateLabel": "Document date",
+        "id": "src_hyundai_creta_manual_2020_2024",
+        "issuer": "Hyundai Motor India Ltd.",
+        "publishedDate": "2020-09-01",
+        "retrievedDate": "2026-07-17",
+        "scope": "Fuel requirements for petrol-engine Creta manufactured September 2020 - January 2024: 'Do not use gasohol containing more than 20% ethanol, and do not use petrol or gasohol containing any methanol.' (p5).",
+        "supportingText": "A usage boundary, not an E20 certification or warranty statement; the manual also advises discontinuing gasohol if drivability problems occur. Local copy retained at DataResearch/brochures/hyundai-creta/.",
+        "title": "Creta owner's manual, September 2020 - January 2024 generation (Wayback Machine snapshot, 19 April 2025)",
+        "url": "https://web.archive.org/web/20250419081759/https://www.hyundai.com/content/dam/hyundai/in/en/data/connect-to-service/owners-manual/2025/creta-sep2020-Jan2024.pdf"
+      }
+    ],
+    "summary": "Hyundai's owner manual for this generation permits petrol blended up to 20% ethanol (and prohibits methanol); treat this as the stated usage limit, not an E20 certification. The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "MT",
+      "IVT"
+    ],
+    "trimRangeApplicability": [
+      "Available across E, EX, S, SX and SX(O) trims per the Jan-Feb 2023 brochure trim plan"
+    ],
+    "variant": "2020-2023 generation · 1.5 l MPi petrol · 6MT/IVT"
   },
   {
     "assessments": [
@@ -501,7 +678,7 @@
     "productionStart": "Conventional production model present in the fleet in 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -602,7 +779,7 @@
     "productionStart": "June 2026",
     "productionStartDate": "2026-06-04",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -688,7 +865,7 @@
     "productionStart": "Live Authentic configuration retrieved 10 July 2026",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [
       {
         "dateLabel": "Retrieved",
@@ -770,7 +947,7 @@
       "kmpl": 18.09,
       "sourceID": "src_skoda_kushaq_brochure_2024"
     },
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -869,7 +1046,7 @@
     "productionStart": "BS6 Phase II passenger-vehicle range introduced in February 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -959,7 +1136,7 @@
     "productionStart": "Unknown",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "recordTimestamp": "2026-07-17T10:17:54Z",
     "sources": [],
     "summary": "My Petrol Passport does not yet have enough authoritative evidence to answer for this exact vehicle.",
     "transmissionE20Coverage": "unspecified",

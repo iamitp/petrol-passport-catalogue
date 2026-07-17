@@ -1,10 +1,10 @@
 {
-  "catalogueVersion": "1.0.0",
+  "catalogueVersion": "1.1.0",
   "failedURLCount": 0,
-  "publishedDate": "2026-07-17T08:47:19Z",
-  "recordCount": 11,
+  "publishedDate": "2026-07-17T10:34:41Z",
+  "recordCount": 13,
   "schemaVersion": "2.0.0",
-  "sha256": "c16a5a0e7207a482db9630247da3fe1cbef5820f01db370d93a0ad1da00e820d",
-  "size": 48590,
+  "sha256": "99caf5afe92656ca1703e67ec4ba32cef9c0837ef87099740865cca14c09713d",
+  "size": 59084,
   "sourcesCheckedDate": "2026-07-17"
 }
