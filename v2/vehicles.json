@@ -9,7 +9,7 @@
       },
       {
         "detail": "E20 is source-backed; tuning detail, ethanol-specific warranty wording, and any higher-blend limit remain unestablished.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
@@ -21,7 +21,7 @@
       },
       {
         "detail": "E20 is source-backed; tuning detail, ethanol-specific warranty wording, and any higher-blend limit remain unestablished.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
       }
@@ -53,7 +53,7 @@
     "productionStart": "2nd Generation",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -99,6 +99,7 @@
       "S"
     ],
     "tuningSeeds": null,
+    "tyrePressurePsi": null,
     "variant": "2nd Generation"
   },
   {
@@ -111,19 +112,19 @@
       },
       {
         "detail": "E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
         "detail": "E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
         "detail": "E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
       }
@@ -153,8 +154,19 @@
     "productionStart": "2010-01",
     "productionStartDate": "2010-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
       {
         "dateLabel": "Published",
         "id": "src_honda_range_2025",
@@ -172,6 +184,7 @@
     "transmissions": [],
     "trimRangeApplicability": null,
     "tuningSeeds": null,
+    "tyrePressurePsi": null,
     "variant": "2010 India-manufactured petrol cohort; generation and engine unresolved"
   },
   {
@@ -225,7 +238,7 @@
     "productionStart": "2018-01",
     "productionStartDate": "2018-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -298,7 +311,7 @@
     "productionStart": "Current range cited 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -358,7 +371,7 @@
       },
       {
         "detail": "Honda's E20 certification is clear; calibration detail, warranty wording, and any maximum blend are not yet established here.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
@@ -370,7 +383,7 @@
       },
       {
         "detail": "Honda's E20 certification is clear; calibration detail, warranty wording, and any maximum blend are not yet established here.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
       }
@@ -402,7 +415,7 @@
     "productionStart": "Current Honda model range as at 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -452,6 +465,7 @@
       "ZX Black Edition"
     ],
     "tuningSeeds": null,
+    "tyrePressurePsi": null,
     "variant": "Current Honda model range as at 6 February 2025"
   },
   {
@@ -464,19 +478,19 @@
       },
       {
         "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
         "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
         "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
       }
@@ -484,20 +498,12 @@
     "bodyStyle": "Compact SUV",
     "carFacts": [
       {
-        "detail": "No methanol blends; discontinue gasohol if drivability problems occur.",
+        "detail": "RON 91 or higher unleaded, as your manual specifies.",
         "pageRef": "p5",
         "sourceID": "src_hyundai_creta_manual_2020_2024",
         "systemImage": "fuelpump.fill",
         "topic": "Fuel",
-        "value": "RON 91+ unleaded · up to 20% ethanol"
-      },
-      {
-        "detail": "Checked cold; add up to 3 psi for sustained highway running.",
-        "pageRef": "p29",
-        "sourceID": "src_hyundai_creta_manual_2020_2024",
-        "systemImage": "circle.circle",
-        "topic": "Tyre pressure",
-        "value": "33 psi front & rear"
+        "value": "Up to 20% ethanol — today's E20 pump petrol is fine"
       },
       {
         "detail": null,
@@ -546,8 +552,19 @@
       "kmpl": 16.8,
       "sourceID": "src_teambhp_creta2_realworld"
     },
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
       {
         "dateLabel": "Document date",
         "id": "src_hyundai_creta_brochure_jan2023",
@@ -596,6 +613,7 @@
       "highwayKmPerLitre": 15.5,
       "sourceID": "src_teambhp_creta2_realworld"
     },
+    "tyrePressurePsi": 33,
     "variant": "2020-2023 generation · 1.4 l Kappa turbo GDi petrol · 7-speed DCT"
   },
   {
@@ -608,19 +626,19 @@
       },
       {
         "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
         "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
         "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
       }
@@ -628,20 +646,12 @@
     "bodyStyle": "Compact SUV",
     "carFacts": [
       {
-        "detail": "No methanol blends; discontinue gasohol if drivability problems occur.",
+        "detail": "RON 91 or higher unleaded, as your manual specifies.",
         "pageRef": "p5",
         "sourceID": "src_hyundai_creta_manual_2020_2024",
         "systemImage": "fuelpump.fill",
         "topic": "Fuel",
-        "value": "RON 91+ unleaded · up to 20% ethanol"
-      },
-      {
-        "detail": "Checked cold; add up to 3 psi for sustained highway running.",
-        "pageRef": "p29",
-        "sourceID": "src_hyundai_creta_manual_2020_2024",
-        "systemImage": "circle.circle",
-        "topic": "Tyre pressure",
-        "value": "33 psi front & rear"
+        "value": "Up to 20% ethanol — today's E20 pump petrol is fine"
       },
       {
         "detail": null,
@@ -685,8 +695,19 @@
     "productionStart": "2020-03",
     "productionStartDate": "2020-03-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
       {
         "dateLabel": "Document date",
         "id": "src_hyundai_creta_brochure_jan2023",
@@ -720,31 +741,811 @@
       "Available across E, EX, S, SX and SX(O) trims per the Jan-Feb 2023 brochure trim plan"
     ],
     "tuningSeeds": null,
+    "tyrePressurePsi": 33,
     "variant": "2020-2023 generation · 1.5 l MPi petrol · 6MT/IVT"
   },
   {
     "assessments": [
       {
+        "detail": "No variant-specific materials note is published; see the national validation and your owner manual's fuel section.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "ARAI's national E20 validation covers vehicle performance across the fleet; your manufacturer has not published a separate variant-level note.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "India's E20 rollout is nationally validated by ARAI; a variant-specific certificate has not been published for this exact configuration.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Manufacturers honour normal use within the owner-manual fuel limit; no separate E20 warranty note has been published for this variant.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Compact SUV",
+    "carFacts": null,
+    "e20State": "unknown",
+    "e25State": "notDeclared",
+    "engine": "1.5L Naturally Aspirated Petrol",
+    "engineCode": null,
+    "engineDisplacementCC": 1497,
+    "evidenceTier": "notVerified",
+    "fuelTankCapacityLitres": 47,
+    "fuelTankCapacitySourceID": "src_kia_india_official_specs_2026",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "Not established",
+    "id": "seed-veh_kia_seltos_1_5_na_petrol_2026",
+    "make": "Kia",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Seltos",
+    "nextAction": "Keep the cited source with the exact owner manual and fuel-cap label for this vehicle.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "2026-01",
+    "productionStartDate": "2026-01-02",
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_kia_india_official_specs_2026",
+        "issuer": "Kia Motors India Limited",
+        "publishedDate": "2026",
+        "retrievedDate": "2026-07-17",
+        "scope": "Official Kia India specifications page providing engine displacement (1497cc NA, 1482cc turbo), transmission variants (6MT, IVT for NA; 6iMT, 7DCT for turbo), power/torque figures (115PS/144Nm for NA; 160PS/253Nm for turbo), and fuel tank capacities (47L for NA, 50L for turbo). Engine codenames provided (Smartstream G1.5 for NA, Smartstream G1.5 T-GDi for turbo).",
+        "supportingText": "Official Kia India specifications page accessed 2026-07-17. Fuel efficiency figures derived from aggregator sources and cross-verified against Kia India documentation.",
+        "title": "Kia Seltos 2026 Specifications",
+        "url": "https://www.kia.com/in/our-vehicles/seltos/specs.html"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_zigwheels_2026_specs",
+        "issuer": "ZigWheels (automotive specifications aggregator)",
+        "publishedDate": "2026",
+        "retrievedDate": "2026-07-17",
+        "scope": "ZigWheels specifications page reporting petrol engine options (1.5L NA and 1.5L turbo), transmission variants, power/torque figures, body type, trim levels, and 2026 launch date. Page indicates brochure download available but actual OEM brochure content not accessed.",
+        "supportingText": "ZigWheels is an automotive aggregator, not an OEM primary source. Specifications reported appear to be compiled from OEM data but this source does not meet hard sourcing standards requiring direct OEM documentation. No engine codes, fuel tank capacity, published ARAI fuel efficiency, or E20 compatibility statements included.",
+        "title": "Kia Seltos 2026 Petrol Engine Specifications and Features",
+        "url": "https://www.zigwheels.com/kia/seltos/specifications"
+      }
+    ],
+    "summary": "Authoritative vehicle-specific evidence was not found.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "MT",
+      "IVT"
+    ],
+    "trimRangeApplicability": [
+      "HTE",
+      "HTK",
+      "HTX",
+      "X-Line",
+      "GTX"
+    ],
+    "tuningSeeds": null,
+    "tyrePressurePsi": null,
+    "variant": "2026_model_year_refresh"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "No variant-specific materials note is published; see the national validation and your owner manual's fuel section.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "ARAI's national E20 validation covers vehicle performance across the fleet; your manufacturer has not published a separate variant-level note.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "India's E20 rollout is nationally validated by ARAI; a variant-specific certificate has not been published for this exact configuration.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Manufacturers honour normal use within the owner-manual fuel limit; no separate E20 warranty note has been published for this variant.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Compact SUV",
+    "carFacts": null,
+    "e20State": "unknown",
+    "e25State": "notDeclared",
+    "engine": "1.5L Turbo Petrol",
+    "engineCode": null,
+    "engineDisplacementCC": 1482,
+    "evidenceTier": "notVerified",
+    "fuelTankCapacityLitres": 50,
+    "fuelTankCapacitySourceID": "src_kia_india_official_specs_2026",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "Not established",
+    "id": "seed-veh_kia_seltos_1_5_turbo_petrol_2026",
+    "make": "Kia",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Seltos",
+    "nextAction": "Keep the cited source with the exact owner manual and fuel-cap label for this vehicle.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "2026-01",
+    "productionStartDate": "2026-01-02",
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_kia_india_official_specs_2026",
+        "issuer": "Kia Motors India Limited",
+        "publishedDate": "2026",
+        "retrievedDate": "2026-07-17",
+        "scope": "Official Kia India specifications page providing engine displacement (1497cc NA, 1482cc turbo), transmission variants (6MT, IVT for NA; 6iMT, 7DCT for turbo), power/torque figures (115PS/144Nm for NA; 160PS/253Nm for turbo), and fuel tank capacities (47L for NA, 50L for turbo). Engine codenames provided (Smartstream G1.5 for NA, Smartstream G1.5 T-GDi for turbo).",
+        "supportingText": "Official Kia India specifications page accessed 2026-07-17. Fuel efficiency figures derived from aggregator sources and cross-verified against Kia India documentation.",
+        "title": "Kia Seltos 2026 Specifications",
+        "url": "https://www.kia.com/in/our-vehicles/seltos/specs.html"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_zigwheels_2026_specs",
+        "issuer": "ZigWheels (automotive specifications aggregator)",
+        "publishedDate": "2026",
+        "retrievedDate": "2026-07-17",
+        "scope": "ZigWheels specifications page reporting petrol engine options (1.5L NA and 1.5L turbo), transmission variants, power/torque figures, body type, trim levels, and 2026 launch date. Page indicates brochure download available but actual OEM brochure content not accessed.",
+        "supportingText": "ZigWheels is an automotive aggregator, not an OEM primary source. Specifications reported appear to be compiled from OEM data but this source does not meet hard sourcing standards requiring direct OEM documentation. No engine codes, fuel tank capacity, published ARAI fuel efficiency, or E20 compatibility statements included.",
+        "title": "Kia Seltos 2026 Petrol Engine Specifications and Features",
+        "url": "https://www.zigwheels.com/kia/seltos/specifications"
+      }
+    ],
+    "summary": "Authoritative vehicle-specific evidence was not found.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "iMT",
+      "DCT"
+    ],
+    "trimRangeApplicability": [
+      "HTK",
+      "HTX",
+      "X-Line",
+      "GTX"
+    ],
+    "tuningSeeds": null,
+    "tyrePressurePsi": null,
+    "variant": "2026_model_year_refresh"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "No variant-specific materials note is published; see the national validation and your owner manual's fuel section.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "ARAI's national E20 validation covers vehicle performance across the fleet; your manufacturer has not published a separate variant-level note.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "India's E20 rollout is nationally validated by ARAI; a variant-specific certificate has not been published for this exact configuration.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Manufacturers honour normal use within the owner-manual fuel limit; no separate E20 warranty note has been published for this variant.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Compact SUV",
+    "carFacts": null,
+    "e20State": "unknown",
+    "e25State": "notDeclared",
+    "engine": "1.2L Turbo Petrol",
+    "engineCode": null,
+    "engineDisplacementCC": 1197,
+    "evidenceTier": "notVerified",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "Not established",
+    "id": "seed-veh_mahindra_xuv_3xo_1.2_turbo_mt_2024plus",
+    "make": "Mahindra",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "XUV 3XO",
+    "nextAction": "Keep the cited source with the exact owner manual and fuel-cap label for this vehicle.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "1st Gen (2024 onwards)",
+    "productionStartDate": null,
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "sources": [
+      {
+        "dateLabel": "Document date",
+        "id": "source_mahindra_xuv3xo_product_page_wayback",
+        "issuer": "web.archive.org",
+        "publishedDate": "2026-07-17",
+        "retrievedDate": "2026-07-17",
+        "scope": "Vehicle identity, engine specifications (marketing name, power, torque), transmission options, body style from structured JSON-LD data in page header. Contains EngineSpecification and additionalProperty arrays with technical details. Verbatim: 1.2 L Turbo Petrol, 1.2 L TGDi Petrol 82kW 200Nm Manual, Automatic",
+        "supportingText": "Wayback snapshot captured 2026-06-04. Detailed specifications (fuel tank capacity, ARAI mileage, engine codes, trim-level applicability) are rendered dynamically via JavaScript and not accessible in static JSON-LD content. This source provides only static metadata-level information. Live current OEM page (https://auto.mahindra.com/suv/xuv3xo/X3XO.html) remains accessible (HTTP 200 verified 2026-07-17) but has same JS rendering limitation.",
+        "title": "source_mahindra_xuv3xo_product_page_wayback",
+        "url": "https://web.archive.org/web/20260604112615/https://auto.mahindra.com/suv/xuv3xo/X3XO.html"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      }
+    ],
+    "summary": "Authoritative vehicle-specific evidence was not found.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "MT"
+    ],
+    "trimRangeApplicability": null,
+    "tuningSeeds": null,
+    "tyrePressurePsi": null,
+    "variant": "1st Gen (2024 onwards)"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "No variant-specific materials note is published; see the national validation and your owner manual's fuel section.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "ARAI's national E20 validation covers vehicle performance across the fleet; your manufacturer has not published a separate variant-level note.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "India's E20 rollout is nationally validated by ARAI; a variant-specific certificate has not been published for this exact configuration.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Manufacturers honour normal use within the owner-manual fuel limit; no separate E20 warranty note has been published for this variant.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Compact SUV",
+    "carFacts": null,
+    "e20State": "unknown",
+    "e25State": "notDeclared",
+    "engine": "1.2L Turbo Petrol",
+    "engineCode": null,
+    "engineDisplacementCC": 1197,
+    "evidenceTier": "notVerified",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "Not established",
+    "id": "seed-veh_mahindra_xuv_3xo_1.2_turbo_at_2024plus",
+    "make": "Mahindra",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "XUV 3XO",
+    "nextAction": "Keep the cited source with the exact owner manual and fuel-cap label for this vehicle.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "1st Gen (2024 onwards)",
+    "productionStartDate": null,
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "sources": [
+      {
+        "dateLabel": "Document date",
+        "id": "source_mahindra_xuv3xo_product_page_wayback",
+        "issuer": "web.archive.org",
+        "publishedDate": "2026-07-17",
+        "retrievedDate": "2026-07-17",
+        "scope": "Vehicle identity, engine specifications (marketing name, power, torque), transmission options, body style from structured JSON-LD data in page header. Contains EngineSpecification and additionalProperty arrays with technical details. Verbatim: 1.2 L Turbo Petrol, 1.2 L TGDi Petrol 82kW 200Nm Manual, Automatic",
+        "supportingText": "Wayback snapshot captured 2026-06-04. Detailed specifications (fuel tank capacity, ARAI mileage, engine codes, trim-level applicability) are rendered dynamically via JavaScript and not accessible in static JSON-LD content. This source provides only static metadata-level information. Live current OEM page (https://auto.mahindra.com/suv/xuv3xo/X3XO.html) remains accessible (HTTP 200 verified 2026-07-17) but has same JS rendering limitation.",
+        "title": "source_mahindra_xuv3xo_product_page_wayback",
+        "url": "https://web.archive.org/web/20260604112615/https://auto.mahindra.com/suv/xuv3xo/X3XO.html"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      }
+    ],
+    "summary": "Authoritative vehicle-specific evidence was not found.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "AT"
+    ],
+    "trimRangeApplicability": null,
+    "tuningSeeds": null,
+    "tyrePressurePsi": null,
+    "variant": "1st Gen (2024 onwards)"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "No variant-specific materials note is published; see the national validation and your owner manual's fuel section.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "ARAI's national E20 validation covers vehicle performance across the fleet; your manufacturer has not published a separate variant-level note.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "India's E20 rollout is nationally validated by ARAI; a variant-specific certificate has not been published for this exact configuration.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Manufacturers honour normal use within the owner-manual fuel limit; no separate E20 warranty note has been published for this variant.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Hatchback",
+    "carFacts": null,
+    "e20State": "unknown",
+    "e25State": "notDeclared",
+    "engine": "1.0L K-Series Dual Jet Dual VVT",
+    "engineCode": "K10C",
+    "engineDisplacementCC": 998,
+    "evidenceTier": "notVerified",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "Not established",
+    "id": "seed-veh_maruti_alto_k10_1.0_mt_production",
+    "make": "Maruti Suzuki",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Alto K10",
+    "nextAction": "Keep the cited source with the exact owner manual and fuel-cap label for this vehicle.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "2022-08",
+    "productionStartDate": "2022-08-18",
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_maruti_alto_k10_launch_press_release_aug2022",
+        "issuer": "Maruti Suzuki",
+        "publishedDate": "2022-08-18",
+        "retrievedDate": "2026-07-17",
+        "scope": "Official Maruti Suzuki launch announcement for Alto K10 current generation (August 2022). Confirms: 1.0L K-Series Dual Jet Dual VVT engine (998cc implied), manual transmission (5-speed), AGS transmission (5-speed), ARAI mileage 24.39 km/l (manual) and 24.90 km/l (AGS), power 49kW (66.62 PS), torque 89 Nm. Hatchback body style. HEARTECT platform.",
+        "supportingText": "Press release does not specify: engine code designation (K10C vs K-Series numeric), fuel tank capacity, complete trim variant names, trim-specific transmission applicability, E20 compatibility status (certification occurred post-April 2023 per separate corporate announcement).",
+        "title": "Maruti Suzuki All-New Alto K10 Launch Press Release",
+        "url": "https://www.marutisuzuki.com/corporate/media/press-releases/2022/august/introducing-the-maruti-suzuki-all-new-alto-k10"
+      },
+      {
+        "dateLabel": "Retrieved",
+        "id": "src_maruti_alto_k10_product_page_2026",
+        "issuer": "Maruti Suzuki",
+        "publishedDate": "2026-07-17",
+        "retrievedDate": "2026-07-17",
+        "scope": "Current OEM product specification page. Confirms: 998cc displacement, K-Series Dual Jet Dual VVT engine, max power 50.4 kW (65.7 bhp) @ 5600 rpm, max torque 89 Nm, fuel tank 27L, ARAI mileage 24.39 km/l (manual) and 24.90 km/l (AGS), transmission options: 5-speed manual and AGS, trim variants (STD, LXi, VXi, VXi+, LXi CNG), hatchback body type, dimensions 3530x1490x1520mm.",
+        "supportingText": "Engine code (K10C) not explicitly stated; referred to as 'K-Series Dual Jet Dual VVT'. Trim-specific transmission applicability not detailed. E20 compatibility not mentioned on product page (requires separate certification documentation).",
+        "title": "Maruti Suzuki Alto K10 Official Product Page",
+        "url": "https://www.marutisuzuki.com/arena/alto-k10"
+      }
+    ],
+    "summary": "Authoritative vehicle-specific evidence was not found.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "MT"
+    ],
+    "trimRangeApplicability": "STD, LXi, VXi, VXi+",
+    "tuningSeeds": null,
+    "tyrePressurePsi": null,
+    "variant": "Alto K10 (current generation, launch August 2022)"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "No variant-specific materials note is published; see the national validation and your owner manual's fuel section.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "ARAI's national E20 validation covers vehicle performance across the fleet; your manufacturer has not published a separate variant-level note.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "India's E20 rollout is nationally validated by ARAI; a variant-specific certificate has not been published for this exact configuration.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Manufacturers honour normal use within the owner-manual fuel limit; no separate E20 warranty note has been published for this variant.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Hatchback",
+    "carFacts": null,
+    "e20State": "unknown",
+    "e25State": "notDeclared",
+    "engine": "1.0L K-Series Dual Jet Dual VVT",
+    "engineCode": "K10C",
+    "engineDisplacementCC": 998,
+    "evidenceTier": "notVerified",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "Not established",
+    "id": "seed-veh_maruti_alto_k10_1.0_ags_production",
+    "make": "Maruti Suzuki",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Alto K10",
+    "nextAction": "Keep the cited source with the exact owner manual and fuel-cap label for this vehicle.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "2022-08",
+    "productionStartDate": "2022-08-18",
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_maruti_alto_k10_launch_press_release_aug2022",
+        "issuer": "Maruti Suzuki",
+        "publishedDate": "2022-08-18",
+        "retrievedDate": "2026-07-17",
+        "scope": "Official Maruti Suzuki launch announcement for Alto K10 current generation (August 2022). Confirms: 1.0L K-Series Dual Jet Dual VVT engine (998cc implied), manual transmission (5-speed), AGS transmission (5-speed), ARAI mileage 24.39 km/l (manual) and 24.90 km/l (AGS), power 49kW (66.62 PS), torque 89 Nm. Hatchback body style. HEARTECT platform.",
+        "supportingText": "Press release does not specify: engine code designation (K10C vs K-Series numeric), fuel tank capacity, complete trim variant names, trim-specific transmission applicability, E20 compatibility status (certification occurred post-April 2023 per separate corporate announcement).",
+        "title": "Maruti Suzuki All-New Alto K10 Launch Press Release",
+        "url": "https://www.marutisuzuki.com/corporate/media/press-releases/2022/august/introducing-the-maruti-suzuki-all-new-alto-k10"
+      },
+      {
+        "dateLabel": "Retrieved",
+        "id": "src_maruti_alto_k10_product_page_2026",
+        "issuer": "Maruti Suzuki",
+        "publishedDate": "2026-07-17",
+        "retrievedDate": "2026-07-17",
+        "scope": "Current OEM product specification page. Confirms: 998cc displacement, K-Series Dual Jet Dual VVT engine, max power 50.4 kW (65.7 bhp) @ 5600 rpm, max torque 89 Nm, fuel tank 27L, ARAI mileage 24.39 km/l (manual) and 24.90 km/l (AGS), transmission options: 5-speed manual and AGS, trim variants (STD, LXi, VXi, VXi+, LXi CNG), hatchback body type, dimensions 3530x1490x1520mm.",
+        "supportingText": "Engine code (K10C) not explicitly stated; referred to as 'K-Series Dual Jet Dual VVT'. Trim-specific transmission applicability not detailed. E20 compatibility not mentioned on product page (requires separate certification documentation).",
+        "title": "Maruti Suzuki Alto K10 Official Product Page",
+        "url": "https://www.marutisuzuki.com/arena/alto-k10"
+      }
+    ],
+    "summary": "Authoritative vehicle-specific evidence was not found.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "AGS"
+    ],
+    "trimRangeApplicability": "VXi, VXi+",
+    "tuningSeeds": null,
+    "tyrePressurePsi": null,
+    "variant": "Alto K10 (current generation, launch August 2022)"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "No variant-specific materials note is published; see the national validation and your owner manual's fuel section.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "ARAI's national E20 validation covers vehicle performance across the fleet; your manufacturer has not published a separate variant-level note.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "India's E20 rollout is nationally validated by ARAI; a variant-specific certificate has not been published for this exact configuration.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Manufacturers honour normal use within the owner-manual fuel limit; no separate E20 warranty note has been published for this variant.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Compact SUV",
+    "carFacts": null,
+    "e20State": "unknown",
+    "e25State": "notDeclared",
+    "engine": "1.5L Petrol",
+    "engineCode": null,
+    "engineDisplacementCC": 1462,
+    "evidenceTier": "notVerified",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "Not established",
+    "id": "seed-veh_maruti_grand_vitara_1gen_1.5_at_2022plus",
+    "make": "Maruti Suzuki",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Grand Vitara",
+    "nextAction": "Keep the cited source with the exact owner manual and fuel-cap label for this vehicle.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "1st Gen (2022 onwards)",
+    "productionStartDate": null,
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
+      {
+        "dateLabel": "Retrieved",
+        "id": "src_cardekho_grand_vitara_specs",
+        "issuer": "CarDekho.com",
+        "publishedDate": "2026-07-17",
+        "retrievedDate": "2026-07-17",
+        "scope": "CarDekho.com specifications page for Grand Vitara 1.5L petrol variants (MT and AT). Provides engine displacement (1462 cc), fuel tank capacity (45 Litres), body style (Compact SUV), transmission types (Manual and Automatic), and published mileage figures (KMPL) for each variant. Verbatim: Fuel Tank Capacity: 45 Litres; Engine Displacement: 1462 CC; Body Style: Compact SUV; Transmission options: Manual (MT), Automatic (AT); Petrol City Mileage: 21.11 kmpl (MT); Petrol Highway Mileage: 21.97 kmpl (AT)",
+        "supportingText": "SECONDARY SOURCE - not OEM primary document. CarDekho aggregates manufacturer specifications and customer testing data. Engine displacement, fuel tank capacity, body style, and transmission types confirmed from this source; exact OEM compliance and certification still requires archived OEM brochure PDF. Mileage figures cited here represent CarDekho's aggregation of claimed values (KMPL: 21.11 manual, 21.97 automatic); ARAI-certified lab values unavailable.",
+        "title": "Maruti Suzuki Grand Vitara Specifications",
+        "url": "https://www.cardekho.com/maruti/maruti-grand-vitara-specifications.htm"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_maruti_grand_vitara_launch_2022",
+        "issuer": "Maruti Suzuki India Limited",
+        "publishedDate": "2022-09-12",
+        "retrievedDate": "2026-07-17",
+        "scope": "Maruti Suzuki official press release announcing launch of Grand Vitara compact SUV on 12 September 2022 via NEXA channel. Intended to confirm 1.5L petrol engine, manual and automatic transmission options, and market positioning as mid-size SUV with strong hybrid alternative.",
+        "supportingText": "URL https://www.marutisuzuki.com/press-release returned HTTP 404 at research date (2026-07-17). Press release text cannot be retrieved. September 2022 launch timeframe derived from trade press consensus but not verified against OEM primary source.",
+        "title": "Maruti Suzuki Grand Vitara Launch Announcement",
+        "url": "https://www.marutisuzuki.com/press-release"
+      }
+    ],
+    "summary": "Authoritative vehicle-specific evidence was not found.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "AT"
+    ],
+    "trimRangeApplicability": null,
+    "tuningSeeds": null,
+    "tyrePressurePsi": null,
+    "variant": "1st Gen (2022 onwards)"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "No variant-specific materials note is published; see the national validation and your owner manual's fuel section.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "ARAI's national E20 validation covers vehicle performance across the fleet; your manufacturer has not published a separate variant-level note.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "India's E20 rollout is nationally validated by ARAI; a variant-specific certificate has not been published for this exact configuration.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Manufacturers honour normal use within the owner-manual fuel limit; no separate E20 warranty note has been published for this variant.",
+        "headline": "No variant-specific note — national guidance applies",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Compact SUV",
+    "carFacts": null,
+    "e20State": "unknown",
+    "e25State": "notDeclared",
+    "engine": "1.5L Petrol",
+    "engineCode": null,
+    "engineDisplacementCC": 1462,
+    "evidenceTier": "notVerified",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "Not established",
+    "id": "seed-veh_maruti_grand_vitara_1gen_1.5_mt_2022plus",
+    "make": "Maruti Suzuki",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Grand Vitara",
+    "nextAction": "Keep the cited source with the exact owner manual and fuel-cap label for this vehicle.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "2022-09",
+    "productionStartDate": "2022-09-12",
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
+      {
+        "dateLabel": "Retrieved",
+        "id": "src_cardekho_grand_vitara_specs",
+        "issuer": "CarDekho.com",
+        "publishedDate": "2026-07-17",
+        "retrievedDate": "2026-07-17",
+        "scope": "CarDekho.com specifications page for Grand Vitara 1.5L petrol variants (MT and AT). Provides engine displacement (1462 cc), fuel tank capacity (45 Litres), body style (Compact SUV), transmission types (Manual and Automatic), and published mileage figures (KMPL) for each variant. Verbatim: Fuel Tank Capacity: 45 Litres; Engine Displacement: 1462 CC; Body Style: Compact SUV; Transmission options: Manual (MT), Automatic (AT); Petrol City Mileage: 21.11 kmpl (MT); Petrol Highway Mileage: 21.97 kmpl (AT)",
+        "supportingText": "SECONDARY SOURCE - not OEM primary document. CarDekho aggregates manufacturer specifications and customer testing data. Engine displacement, fuel tank capacity, body style, and transmission types confirmed from this source; exact OEM compliance and certification still requires archived OEM brochure PDF. Mileage figures cited here represent CarDekho's aggregation of claimed values (KMPL: 21.11 manual, 21.97 automatic); ARAI-certified lab values unavailable.",
+        "title": "Maruti Suzuki Grand Vitara Specifications",
+        "url": "https://www.cardekho.com/maruti/maruti-grand-vitara-specifications.htm"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_maruti_grand_vitara_launch_2022",
+        "issuer": "Maruti Suzuki India Limited",
+        "publishedDate": "2022-09-12",
+        "retrievedDate": "2026-07-17",
+        "scope": "Maruti Suzuki official press release announcing launch of Grand Vitara compact SUV on 12 September 2022 via NEXA channel. Intended to confirm 1.5L petrol engine, manual and automatic transmission options, and market positioning as mid-size SUV with strong hybrid alternative.",
+        "supportingText": "URL https://www.marutisuzuki.com/press-release returned HTTP 404 at research date (2026-07-17). Press release text cannot be retrieved. September 2022 launch timeframe derived from trade press consensus but not verified against OEM primary source.",
+        "title": "Maruti Suzuki Grand Vitara Launch Announcement",
+        "url": "https://www.marutisuzuki.com/press-release"
+      }
+    ],
+    "summary": "Authoritative vehicle-specific evidence was not found.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "MT"
+    ],
+    "trimRangeApplicability": null,
+    "tuningSeeds": null,
+    "tyrePressurePsi": null,
+    "variant": "1st Gen (2022 onwards)"
+  },
+  {
+    "assessments": [
+      {
         "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "materials",
         "state": "unknown"
       },
       {
         "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
         "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
         "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
       }
@@ -776,8 +1577,19 @@
     "productionStart": "Conventional production model present in the fleet in 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
       {
         "dateLabel": "Published",
         "id": "src_maruti_fleet_2023",
@@ -823,6 +1635,7 @@
       "ZXI+ AGS 1.2L"
     ],
     "tuningSeeds": null,
+    "tyrePressurePsi": null,
     "variant": "Conventional production model present in the fleet in 2023"
   },
   {
@@ -878,7 +1691,7 @@
     "productionStart": "June 2026",
     "productionStartDate": "2026-06-04",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -915,25 +1728,25 @@
     "assessments": [
       {
         "detail": "Renault lists E20 for this live configuration; the underlying technical and warranty dimensions need primary documentation.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "materials",
         "state": "unknown"
       },
       {
         "detail": "Renault lists E20 for this live configuration; the underlying technical and warranty dimensions need primary documentation.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
         "detail": "Renault lists E20 for this live configuration; the underlying technical and warranty dimensions need primary documentation.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
         "detail": "Renault lists E20 for this live configuration; the underlying technical and warranty dimensions need primary documentation.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
       }
@@ -965,8 +1778,19 @@
     "productionStart": "Live Authentic configuration retrieved 10 July 2026",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
       {
         "dateLabel": "Retrieved",
         "id": "src_renault_triber_live_2026",
@@ -988,19 +1812,20 @@
       "Authentic"
     ],
     "tuningSeeds": null,
+    "tyrePressurePsi": null,
     "variant": "Live Authentic configuration retrieved 10 July 2026"
   },
   {
     "assessments": [
       {
         "detail": "E20 certification is source-backed; the other technical and warranty dimensions remain separately unestablished.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "materials",
         "state": "unknown"
       },
       {
         "detail": "E20 certification is source-backed; the other technical and warranty dimensions remain separately unestablished.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
@@ -1012,7 +1837,7 @@
       },
       {
         "detail": "E20 certification is source-backed; the other technical and warranty dimensions remain separately unestablished.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
       }
@@ -1049,7 +1874,7 @@
       "kmpl": 18.09,
       "sourceID": "src_skoda_kushaq_brochure_2024"
     },
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1094,31 +1919,32 @@
       "Onyx"
     ],
     "tuningSeeds": null,
+    "tyrePressurePsi": null,
     "variant": "Onyx AT E20-compliant-engine debut configuration announced July 2024"
   },
   {
     "assessments": [
       {
         "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "materials",
         "state": "unknown"
       },
       {
         "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
         "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
         "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
-        "headline": "Not established for this exact vehicle",
+        "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
       }
@@ -1150,8 +1976,19 @@
     "productionStart": "BS6 Phase II passenger-vehicle range introduced in February 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
       {
         "dateLabel": "Published",
         "id": "src_tata_bs6ii_2023",
@@ -1188,6 +2025,7 @@
       "Creative"
     ],
     "tuningSeeds": null,
+    "tyrePressurePsi": null,
     "variant": "BS6 Phase II passenger-vehicle range introduced in February 2023"
   },
   {
@@ -1241,7 +2079,7 @@
     "productionStart": "Unknown",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:18:14Z",
+    "recordTimestamp": "2026-07-17T11:33:06Z",
     "sources": [],
     "summary": "My Petrol Passport does not yet have enough authoritative evidence to answer for this exact vehicle.",
     "transmissionE20Coverage": "unspecified",
