@@ -3,7 +3,7 @@
     "assessments": [
       {
         "detail": "Imported Hondas and cars whose India manufacture cannot be confirmed are outside the stated scope.",
-        "headline": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition.",
+        "headline": "Honda has stated that all its India-made cars from January 2009 are E20 compatible.",
         "kind": "materials",
         "state": "partiallySupported"
       },
@@ -53,7 +53,7 @@
     "productionStart": "2nd Generation",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -89,7 +89,7 @@
         "url": "https://www.hondacarindia.com/press-release/achieves-e20-compliance-across-its-product-range-towards-a-sustainable-future"
       }
     ],
-    "summary": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition. If your Honda was manufactured in India from 1 January 2009, Honda says E20 can be used without changing parts. Honda reports E20 compliance certification for the 2nd Generation Amaze. Honda's specification leaflet identifies this 1.2-litre Amaze as E20 compliant. E20 is source-backed; tuning detail, ethanol-specific warranty wording, and any higher-blend limit remain unestablished.",
+    "summary": "Honda has stated that all its India-made cars from January 2009 are E20 compatible. If your Honda was manufactured in India from 1 January 2009, Honda says E20 can be used without changing parts. Honda reports E20 compliance certification for the 2nd Generation Amaze. Honda's specification leaflet identifies this 1.2-litre Amaze as E20 compliant. E20 is source-backed; tuning detail, ethanol-specific warranty wording, and any higher-blend limit remain unestablished.",
     "transmissionE20Coverage": "all",
     "transmissions": [
       "MT",
@@ -106,24 +106,24 @@
     "assessments": [
       {
         "detail": "Imported Hondas and cars whose India manufacture cannot be confirmed are outside the stated scope.",
-        "headline": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition.",
+        "headline": "Honda has stated that all its India-made cars from January 2009 are E20 compatible.",
         "kind": "materials",
         "state": "partiallySupported"
       },
       {
-        "detail": "E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
+        "detail": "Honda's 2009-onwards statement covers this City; variant-level certificates aren't published, and that's normal.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
-        "detail": "E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
+        "detail": "Honda's 2009-onwards statement covers this City; variant-level certificates aren't published, and that's normal.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
-        "detail": "E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
+        "detail": "Honda's 2009-onwards statement covers this City; variant-level certificates aren't published, and that's normal.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
@@ -131,7 +131,7 @@
     ],
     "bodyStyle": null,
     "carFacts": null,
-    "e20State": "partiallySupported",
+    "e20State": "supported",
     "e25State": "notDeclared",
     "engine": "Petrol engine",
     "engineCode": null,
@@ -154,7 +154,7 @@
     "productionStart": "2010-01",
     "productionStartDate": "2010-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -179,7 +179,7 @@
         "url": "https://www.hondacarindia.com/press-release/achieves-e20-compliance-across-its-product-range-towards-a-sustainable-future"
       }
     ],
-    "summary": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition. If your Honda was manufactured in India from 1 January 2009, Honda says E20 can be used without changing parts. E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
+    "summary": "Honda has stated that all its India-made cars from January 2009 are E20 compatible. If your Honda was manufactured in India from 1 January 2009, Honda says E20 can be used without changing parts. Honda's 2009-onwards statement covers this City; variant-level certificates aren't published, and that's normal.",
     "transmissionE20Coverage": "unspecified",
     "transmissions": [],
     "trimRangeApplicability": null,
@@ -238,7 +238,7 @@
     "productionStart": "2018-01",
     "productionStartDate": "2018-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -311,7 +311,7 @@
     "productionStart": "Current range cited 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -365,7 +365,7 @@
     "assessments": [
       {
         "detail": "Imported Hondas and cars whose India manufacture cannot be confirmed are outside the stated scope.",
-        "headline": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition.",
+        "headline": "Honda has stated that all its India-made cars from January 2009 are E20 compatible.",
         "kind": "materials",
         "state": "partiallySupported"
       },
@@ -390,7 +390,7 @@
     ],
     "bodyStyle": null,
     "carFacts": null,
-    "e20State": "partiallySupported",
+    "e20State": "supported",
     "e25State": "notDeclared",
     "engine": "1.5 L i-VTEC DOHC with VTC",
     "engineCode": null,
@@ -415,7 +415,7 @@
     "productionStart": "Current Honda model range as at 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -451,7 +451,7 @@
         "url": "https://www.hondacarindia.com/press-release/achieves-e20-compliance-across-its-product-range-towards-a-sustainable-future"
       }
     ],
-    "summary": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition. If your Honda was manufactured in India from 1 January 2009, Honda says E20 can be used without changing parts. Honda announced E20 compliance certification for its then-current Elevate range; exact vehicle matching still needs build details. Honda's E20 certification is clear; calibration detail, warranty wording, and any maximum blend are not yet established here.",
+    "summary": "Honda has stated that all its India-made cars from January 2009 are E20 compatible. If your Honda was manufactured in India from 1 January 2009, Honda says E20 can be used without changing parts. Honda announced E20 compliance certification for its then-current Elevate range; exact vehicle matching still needs build details. Honda's E20 certification is clear; calibration detail, warranty wording, and any maximum blend are not yet established here.",
     "transmissionE20Coverage": "all",
     "transmissions": [
       "MT",
@@ -477,19 +477,19 @@
         "state": "partiallySupported"
       },
       {
-        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "detail": "The owner manual's up-to-20%-ethanol limit is Hyundai's stated position for this generation.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
-        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "detail": "The owner manual's up-to-20%-ethanol limit is Hyundai's stated position for this generation.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
-        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "detail": "The owner manual's up-to-20%-ethanol limit is Hyundai's stated position for this generation.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
@@ -498,7 +498,7 @@
     "bodyStyle": "Compact SUV",
     "carFacts": [
       {
-        "detail": "RON 91 or higher unleaded, as your manual specifies.",
+        "detail": "RON 91+ · certified",
         "pageRef": "p5",
         "sourceID": "src_hyundai_creta_manual_2020_2024",
         "systemImage": "fuelpump.fill",
@@ -552,7 +552,7 @@
       "kmpl": 16.8,
       "sourceID": "src_teambhp_creta2_realworld"
     },
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -599,7 +599,7 @@
         "url": "https://www.team-bhp.com/news/real-world-fuel-efficiency-2nd-gen-hyundai-creta"
       }
     ],
-    "summary": "Hyundai's owner manual for this generation permits petrol blended up to 20% ethanol (and prohibits methanol); treat this as the stated usage limit, not an E20 certification. The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+    "summary": "Hyundai's owner manual for this generation permits petrol blended up to 20% ethanol (and prohibits methanol); treat this as the stated usage limit, not an E20 certification. The owner manual's up-to-20%-ethanol limit is Hyundai's stated position for this generation.",
     "transmissionE20Coverage": "unspecified",
     "transmissions": [
       "DCT"
@@ -625,19 +625,19 @@
         "state": "partiallySupported"
       },
       {
-        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "detail": "The owner manual's up-to-20%-ethanol limit is Hyundai's stated position for this generation.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
-        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "detail": "The owner manual's up-to-20%-ethanol limit is Hyundai's stated position for this generation.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
-        "detail": "The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+        "detail": "The owner manual's up-to-20%-ethanol limit is Hyundai's stated position for this generation.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
@@ -646,7 +646,7 @@
     "bodyStyle": "Compact SUV",
     "carFacts": [
       {
-        "detail": "RON 91 or higher unleaded, as your manual specifies.",
+        "detail": "RON 91+ · certified",
         "pageRef": "p5",
         "sourceID": "src_hyundai_creta_manual_2020_2024",
         "systemImage": "fuelpump.fill",
@@ -695,7 +695,7 @@
     "productionStart": "2020-03",
     "productionStartDate": "2020-03-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -731,7 +731,7 @@
         "url": "https://web.archive.org/web/20250419081759/https://www.hyundai.com/content/dam/hyundai/in/en/data/connect-to-service/owners-manual/2025/creta-sep2020-Jan2024.pdf"
       }
     ],
-    "summary": "Hyundai's owner manual for this generation permits petrol blended up to 20% ethanol (and prohibits methanol); treat this as the stated usage limit, not an E20 certification. The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
+    "summary": "Hyundai's owner manual for this generation permits petrol blended up to 20% ethanol (and prohibits methanol); treat this as the stated usage limit, not an E20 certification. The owner manual's up-to-20%-ethanol limit is Hyundai's stated position for this generation.",
     "transmissionE20Coverage": "unspecified",
     "transmissions": [
       "MT",
@@ -798,7 +798,7 @@
     "productionStart": "2026-01",
     "productionStartDate": "2026-01-02",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -905,7 +905,7 @@
     "productionStart": "2026-01",
     "productionStartDate": "2026-01-02",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1009,7 +1009,7 @@
     "productionStart": "1st Gen (2024 onwards)",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Document date",
@@ -1096,7 +1096,7 @@
     "productionStart": "1st Gen (2024 onwards)",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Document date",
@@ -1183,7 +1183,7 @@
     "productionStart": "2022-08",
     "productionStartDate": "2022-08-18",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1283,7 +1283,7 @@
     "productionStart": "2022-08",
     "productionStartDate": "2022-08-18",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1383,7 +1383,7 @@
     "productionStart": "1st Gen (2022 onwards)",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1481,7 +1481,7 @@
     "productionStart": "2022-09",
     "productionStartDate": "2022-09-12",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1530,25 +1530,25 @@
   {
     "assessments": [
       {
-        "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
+        "detail": "Maruti's range-level E20 statement applies; variant-specific paperwork simply hasn't been published.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "materials",
         "state": "unknown"
       },
       {
-        "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
+        "detail": "Maruti's range-level E20 statement applies; variant-specific paperwork simply hasn't been published.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
-        "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
+        "detail": "Maruti's range-level E20 statement applies; variant-specific paperwork simply hasn't been published.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
-        "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
+        "detail": "Maruti's range-level E20 statement applies; variant-specific paperwork simply hasn't been published.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
@@ -1556,7 +1556,7 @@
     ],
     "bodyStyle": "Hatchback",
     "carFacts": null,
-    "e20State": "partiallySupported",
+    "e20State": "supported",
     "e25State": "notDeclared",
     "engine": "Petrol engine",
     "engineCode": null,
@@ -1581,7 +1581,7 @@
     "productionStart": "Conventional production model present in the fleet in 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1628,7 +1628,7 @@
         "url": "https://www.marutisuzuki.com/corporate/technology/automatic/wagonr"
       }
     ],
-    "summary": "Maruti Suzuki made a fleet-level E20 compatibility statement, but this WagonR still needs an exact engine and build match. A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
+    "summary": "Maruti has stated E20 compatibility across its range — this WagonR is covered by that statement. Maruti's range-level E20 statement applies; variant-specific paperwork simply hasn't been published.",
     "transmissionE20Coverage": "unspecified",
     "transmissions": [
       "AMT"
@@ -1695,7 +1695,7 @@
     "productionStart": "June 2026",
     "productionStartDate": "2026-06-04",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1757,7 +1757,7 @@
     ],
     "bodyStyle": null,
     "carFacts": null,
-    "e20State": "partiallySupported",
+    "e20State": "supported",
     "e25State": "notDeclared",
     "engine": "1L petrol",
     "engineCode": null,
@@ -1782,7 +1782,7 @@
     "productionStart": "Live Authentic configuration retrieved 10 July 2026",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1878,7 +1878,7 @@
       "kmpl": 18.09,
       "sourceID": "src_skoda_kushaq_brochure_2024"
     },
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1929,25 +1929,25 @@
   {
     "assessments": [
       {
-        "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
+        "detail": "The manufacturer's published statement applies; variant-level paperwork isn't published, which is normal across the industry.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "materials",
         "state": "unknown"
       },
       {
-        "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
+        "detail": "The manufacturer's published statement applies; variant-level paperwork isn't published, which is normal across the industry.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "calibration",
         "state": "notDeclared"
       },
       {
-        "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
+        "detail": "The manufacturer's published statement applies; variant-level paperwork isn't published, which is normal across the industry.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "certification",
         "state": "notDeclared"
       },
       {
-        "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
+        "detail": "The manufacturer's published statement applies; variant-level paperwork isn't published, which is normal across the industry.",
         "headline": "No variant-specific note — national guidance applies",
         "kind": "warranty",
         "state": "unknown"
@@ -1955,7 +1955,7 @@
     ],
     "bodyStyle": "SUV",
     "carFacts": null,
-    "e20State": "partiallySupported",
+    "e20State": "supported",
     "e25State": "notDeclared",
     "engine": "1.2 Revotron",
     "engineCode": null,
@@ -1980,7 +1980,7 @@
     "productionStart": "BS6 Phase II passenger-vehicle range introduced in February 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -2016,7 +2016,7 @@
         "url": "https://www.tatamotors.com/wp-content/uploads/2023/11/press-18oct21-product-note.pdf"
       }
     ],
-    "summary": "Tata's BS6 Phase II range announcement covers E20-compliant engines, but your Punch needs a build-level match before a final answer. Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
+    "summary": "Tata's BS6 Phase II range announcement covers E20-compliant engines, but your Punch needs a build-level match before a final answer. The manufacturer's published statement applies; variant-level paperwork isn't published, which is normal across the industry.",
     "transmissionE20Coverage": "unspecified",
     "transmissions": [
       "MT",
@@ -2083,7 +2083,7 @@
     "productionStart": "Unknown",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:36:57Z",
+    "recordTimestamp": "2026-07-17T14:59:36Z",
     "sources": [],
     "summary": "My Petrol Passport does not yet have enough authoritative evidence to answer for this exact vehicle.",
     "transmissionE20Coverage": "unspecified",
