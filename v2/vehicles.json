@@ -27,6 +27,7 @@
       }
     ],
     "bodyStyle": null,
+    "carFacts": null,
     "e20State": "supported",
     "e25State": "notDeclared",
     "engine": "i-VTEC SOHC",
@@ -52,7 +53,7 @@
     "productionStart": "2nd Generation",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -127,6 +128,7 @@
       }
     ],
     "bodyStyle": null,
+    "carFacts": null,
     "e20State": "partiallySupported",
     "e25State": "notDeclared",
     "engine": "Petrol engine",
@@ -150,7 +152,7 @@
     "productionStart": "2010-01",
     "productionStartDate": "2010-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -221,7 +223,7 @@
     "productionStart": "2018-01",
     "productionStartDate": "2018-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -294,7 +296,7 @@
     "productionStart": "Current range cited 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -372,6 +374,7 @@
       }
     ],
     "bodyStyle": null,
+    "carFacts": null,
     "e20State": "partiallySupported",
     "e25State": "notDeclared",
     "engine": "1.5 L i-VTEC DOHC with VTC",
@@ -397,7 +400,7 @@
     "productionStart": "Current Honda model range as at 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -476,6 +479,40 @@
       }
     ],
     "bodyStyle": "Compact SUV",
+    "carFacts": [
+      {
+        "detail": "No methanol blends; discontinue gasohol if drivability problems occur.",
+        "pageRef": "p5",
+        "sourceID": "src_hyundai_creta_manual_2020_2024",
+        "systemImage": "fuelpump.fill",
+        "topic": "Fuel",
+        "value": "RON 91+ unleaded · up to 20% ethanol"
+      },
+      {
+        "detail": "Normal load, 16\" and 17\" wheels; +20 kPa permitted for sustained highway speeds.",
+        "pageRef": "p29",
+        "sourceID": "src_hyundai_creta_manual_2020_2024",
+        "systemImage": "circle.circle",
+        "topic": "Tyre pressure",
+        "value": "230 kPa (33 psi) front & rear"
+      },
+      {
+        "detail": null,
+        "pageRef": "p4",
+        "sourceID": "src_hyundai_creta_brochure_jan2023",
+        "systemImage": "drop.fill",
+        "topic": "Fuel tank",
+        "value": "50 litres"
+      },
+      {
+        "detail": null,
+        "pageRef": "p4",
+        "sourceID": "src_hyundai_creta_brochure_jan2023",
+        "systemImage": "engine.combustion.fill",
+        "topic": "Engine output",
+        "value": "140 PS · 242 Nm"
+      }
+    ],
     "e20State": "partiallySupported",
     "e25State": "notDeclared",
     "engine": "1.4 l Kappa turbo GDi petrol",
@@ -501,7 +538,7 @@
     "productionStart": "2020-03",
     "productionStartDate": "2020-03-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Document date",
@@ -564,6 +601,40 @@
       }
     ],
     "bodyStyle": "Compact SUV",
+    "carFacts": [
+      {
+        "detail": "No methanol blends; discontinue gasohol if drivability problems occur.",
+        "pageRef": "p5",
+        "sourceID": "src_hyundai_creta_manual_2020_2024",
+        "systemImage": "fuelpump.fill",
+        "topic": "Fuel",
+        "value": "RON 91+ unleaded · up to 20% ethanol"
+      },
+      {
+        "detail": "Normal load, 16\" and 17\" wheels; +20 kPa permitted for sustained highway speeds.",
+        "pageRef": "p29",
+        "sourceID": "src_hyundai_creta_manual_2020_2024",
+        "systemImage": "circle.circle",
+        "topic": "Tyre pressure",
+        "value": "230 kPa (33 psi) front & rear"
+      },
+      {
+        "detail": null,
+        "pageRef": "p4",
+        "sourceID": "src_hyundai_creta_brochure_jan2023",
+        "systemImage": "drop.fill",
+        "topic": "Fuel tank",
+        "value": "50 litres"
+      },
+      {
+        "detail": null,
+        "pageRef": "p4",
+        "sourceID": "src_hyundai_creta_brochure_jan2023",
+        "systemImage": "engine.combustion.fill",
+        "topic": "Engine output",
+        "value": "115 PS · 143.8 Nm"
+      }
+    ],
     "e20State": "partiallySupported",
     "e25State": "notDeclared",
     "engine": "1.5 l MPi petrol",
@@ -589,7 +660,7 @@
     "productionStart": "2020-03",
     "productionStartDate": "2020-03-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Document date",
@@ -653,6 +724,7 @@
       }
     ],
     "bodyStyle": "Hatchback",
+    "carFacts": null,
     "e20State": "partiallySupported",
     "e25State": "notDeclared",
     "engine": "Petrol engine",
@@ -678,7 +750,7 @@
     "productionStart": "Conventional production model present in the fleet in 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -779,7 +851,7 @@
     "productionStart": "June 2026",
     "productionStartDate": "2026-06-04",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -840,6 +912,7 @@
       }
     ],
     "bodyStyle": null,
+    "carFacts": null,
     "e20State": "partiallySupported",
     "e25State": "notDeclared",
     "engine": "1L petrol",
@@ -865,7 +938,7 @@
     "productionStart": "Live Authentic configuration retrieved 10 July 2026",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Retrieved",
@@ -917,6 +990,7 @@
       }
     ],
     "bodyStyle": "SUV",
+    "carFacts": null,
     "e20State": "supported",
     "e25State": "notDeclared",
     "engine": "1.0 TSI",
@@ -947,7 +1021,7 @@
       "kmpl": 18.09,
       "sourceID": "src_skoda_kushaq_brochure_2024"
     },
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1021,6 +1095,7 @@
       }
     ],
     "bodyStyle": "SUV",
+    "carFacts": null,
     "e20State": "partiallySupported",
     "e25State": "notDeclared",
     "engine": "1.2 Revotron",
@@ -1046,7 +1121,7 @@
     "productionStart": "BS6 Phase II passenger-vehicle range introduced in February 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1136,7 +1211,7 @@
     "productionStart": "Unknown",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:17:54Z",
+    "recordTimestamp": "2026-07-17T10:45:50Z",
     "sources": [],
     "summary": "My Petrol Passport does not yet have enough authoritative evidence to answer for this exact vehicle.",
     "transmissionE20Coverage": "unspecified",
