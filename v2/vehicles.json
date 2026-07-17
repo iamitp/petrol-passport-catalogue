@@ -53,7 +53,7 @@
     "productionStart": "2nd Generation",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -154,7 +154,7 @@
     "productionStart": "2010-01",
     "productionStartDate": "2010-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -238,7 +238,7 @@
     "productionStart": "2018-01",
     "productionStartDate": "2018-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -311,7 +311,7 @@
     "productionStart": "Current range cited 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -415,7 +415,7 @@
     "productionStart": "Current Honda model range as at 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -552,7 +552,7 @@
       "kmpl": 16.8,
       "sourceID": "src_teambhp_creta2_realworld"
     },
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -695,7 +695,7 @@
     "productionStart": "2020-03",
     "productionStartDate": "2020-03-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -798,7 +798,7 @@
     "productionStart": "2026-01",
     "productionStartDate": "2026-01-02",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -905,7 +905,7 @@
     "productionStart": "2026-01",
     "productionStartDate": "2026-01-02",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1009,7 +1009,7 @@
     "productionStart": "1st Gen (2024 onwards)",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Document date",
@@ -1096,7 +1096,7 @@
     "productionStart": "1st Gen (2024 onwards)",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Document date",
@@ -1183,7 +1183,7 @@
     "productionStart": "2022-08",
     "productionStartDate": "2022-08-18",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1224,7 +1224,9 @@
     "transmissions": [
       "MT"
     ],
-    "trimRangeApplicability": "STD, LXi, VXi, VXi+",
+    "trimRangeApplicability": [
+      "STD, LXi, VXi, VXi+"
+    ],
     "tuningSeeds": null,
     "tyrePressurePsi": null,
     "variant": "Alto K10 (current generation, launch August 2022)"
@@ -1281,7 +1283,7 @@
     "productionStart": "2022-08",
     "productionStartDate": "2022-08-18",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1322,7 +1324,9 @@
     "transmissions": [
       "AGS"
     ],
-    "trimRangeApplicability": "VXi, VXi+",
+    "trimRangeApplicability": [
+      "VXi, VXi+"
+    ],
     "tuningSeeds": null,
     "tyrePressurePsi": null,
     "variant": "Alto K10 (current generation, launch August 2022)"
@@ -1379,7 +1383,7 @@
     "productionStart": "1st Gen (2022 onwards)",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1477,7 +1481,7 @@
     "productionStart": "2022-09",
     "productionStartDate": "2022-09-12",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1577,7 +1581,7 @@
     "productionStart": "Conventional production model present in the fleet in 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1691,7 +1695,7 @@
     "productionStart": "June 2026",
     "productionStartDate": "2026-06-04",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1778,7 +1782,7 @@
     "productionStart": "Live Authentic configuration retrieved 10 July 2026",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1874,7 +1878,7 @@
       "kmpl": 18.09,
       "sourceID": "src_skoda_kushaq_brochure_2024"
     },
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1976,7 +1980,7 @@
     "productionStart": "BS6 Phase II passenger-vehicle range introduced in February 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -2079,7 +2083,7 @@
     "productionStart": "Unknown",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:33:06Z",
+    "recordTimestamp": "2026-07-17T11:36:57Z",
     "sources": [],
     "summary": "My Petrol Passport does not yet have enough authoritative evidence to answer for this exact vehicle.",
     "transmissionE20Coverage": "unspecified",
