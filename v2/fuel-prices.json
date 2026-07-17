@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0.0",
+  "sourcedDate": "2026-07-17",
+  "source": {
+    "name": "Goodreturns city-wise petrol price page",
+    "url": "https://www.goodreturns.in/petrol-price.html",
+    "note": "Indicative retail selling prices; the pump price the driver enters always wins."
+  },
+  "unit": "INR per litre",
+  "grade": "Petrol (E20)",
+  "cities": [
+    {
+      "name": "Delhi NCR",
+      "petrolPerLitre": 102.12
+    },
+    {
+      "name": "Mumbai",
+      "petrolPerLitre": 111.18
+    },
+    {
+      "name": "Bengaluru",
+      "petrolPerLitre": 111.68
+    },
+    {
+      "name": "Hyderabad",
+      "petrolPerLitre": 117.07
+    },
+    {
+      "name": "Chennai",
+      "petrolPerLitre": 108.96
+    },
+    {
+      "name": "Kolkata",
+      "petrolPerLitre": 113.5
+    },
+    {
+      "name": "Jaipur",
+      "petrolPerLitre": 113.61
+    },
+    {
+      "name": "Lucknow",
+      "petrolPerLitre": 101.89
+    },
+    {
+      "name": "Chandigarh",
+      "petrolPerLitre": 101.54
+    },
+    {
+      "name": "Patna",
+      "petrolPerLitre": 113.37
+    },
+    {
+      "name": "Bhubaneswar",
+      "petrolPerLitre": 108.97
+    }
+  ]
+}
