@@ -53,7 +53,7 @@
     "productionStart": "2nd Generation",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -153,7 +153,7 @@
     "productionStart": "2010-01",
     "productionStartDate": "2010-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -225,7 +225,7 @@
     "productionStart": "2018-01",
     "productionStartDate": "2018-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -298,7 +298,7 @@
     "productionStart": "Current range cited 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -402,7 +402,7 @@
     "productionStart": "Current Honda model range as at 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -516,7 +516,7 @@
         "value": "140 PS · 242 Nm"
       }
     ],
-    "e20State": "partiallySupported",
+    "e20State": "supported",
     "e25State": "notDeclared",
     "engine": "1.4 l Kappa turbo GDi petrol",
     "engineCode": null,
@@ -525,7 +525,7 @@
     "fuelTankCapacityLitres": 50,
     "fuelTankCapacitySourceID": "src_hyundai_creta_brochure_jan2023",
     "fuelType": "Petrol",
-    "highestDocumentedBlend": "E20 materials",
+    "highestDocumentedBlend": "E20",
     "id": "seed-veh_hyundai_creta_1p4_turbo_dct_2020_2023",
     "make": "Hyundai",
     "mileageGuidance": {
@@ -546,7 +546,7 @@
       "kmpl": 16.8,
       "sourceID": "src_teambhp_creta2_realworld"
     },
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Document date",
@@ -660,7 +660,7 @@
         "value": "115 PS · 143.8 Nm"
       }
     ],
-    "e20State": "partiallySupported",
+    "e20State": "supported",
     "e25State": "notDeclared",
     "engine": "1.5 l MPi petrol",
     "engineCode": null,
@@ -669,7 +669,7 @@
     "fuelTankCapacityLitres": 50,
     "fuelTankCapacitySourceID": "src_hyundai_creta_brochure_jan2023",
     "fuelType": "Petrol",
-    "highestDocumentedBlend": "E20 materials",
+    "highestDocumentedBlend": "E20",
     "id": "seed-veh_hyundai_creta_1p5_mpi_2020_2023",
     "make": "Hyundai",
     "mileageGuidance": {
@@ -685,7 +685,7 @@
     "productionStart": "2020-03",
     "productionStartDate": "2020-03-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Document date",
@@ -776,7 +776,7 @@
     "productionStart": "Conventional production model present in the fleet in 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -878,7 +878,7 @@
     "productionStart": "June 2026",
     "productionStartDate": "2026-06-04",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -965,7 +965,7 @@
     "productionStart": "Live Authentic configuration retrieved 10 July 2026",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Retrieved",
@@ -1049,7 +1049,7 @@
       "kmpl": 18.09,
       "sourceID": "src_skoda_kushaq_brochure_2024"
     },
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1150,7 +1150,7 @@
     "productionStart": "BS6 Phase II passenger-vehicle range introduced in February 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1241,7 +1241,7 @@
     "productionStart": "Unknown",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T11:13:15Z",
+    "recordTimestamp": "2026-07-17T11:18:14Z",
     "sources": [],
     "summary": "My Petrol Passport does not yet have enough authoritative evidence to answer for this exact vehicle.",
     "transmissionE20Coverage": "unspecified",
