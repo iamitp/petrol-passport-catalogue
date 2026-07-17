@@ -1,0 +1,970 @@
+[
+  {
+    "assessments": [
+      {
+        "detail": "Imported Hondas and cars whose India manufacture cannot be confirmed are outside the stated scope.",
+        "headline": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition.",
+        "kind": "materials",
+        "state": "partiallySupported"
+      },
+      {
+        "detail": "E20 is source-backed; tuning detail, ethanol-specific warranty wording, and any higher-blend limit remain unestablished.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Certification at E20 does not establish E25, an upper blend limit, calibration detail, or warranty treatment.",
+        "headline": "Honda reports E20 compliance certification for the 2nd Generation Amaze.",
+        "kind": "certification",
+        "state": "supported"
+      },
+      {
+        "detail": "E20 is source-backed; tuning detail, ethanol-specific warranty wording, and any higher-blend limit remain unestablished.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": null,
+    "e20State": "supported",
+    "e25State": "notDeclared",
+    "engine": "i-VTEC SOHC",
+    "engineCode": null,
+    "engineDisplacementCC": 1199,
+    "evidenceTier": "exactOEM",
+    "fuelTankCapacityLitres": 35,
+    "fuelTankCapacitySourceID": "src_honda_amaze_2g_spec_2025",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20",
+    "id": "seed-veh_honda_amaze_2g_petrol",
+    "make": "Honda",
+    "mileageGuidance": {
+      "detail": "ARAI reports a 2–6% laboratory efficiency effect for validated E20 vehicles. Real-world results also depend on route, tyres, traffic, AC use and maintenance.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": 6,
+      "minimumPercent": 2
+    },
+    "model": "Amaze",
+    "nextAction": "OEM calibration statement, warranty policy or service circular, and explicit maximum-blend guidance.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "2nd Generation",
+    "productionStartDate": null,
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
+      {
+        "dateLabel": "Document date",
+        "id": "src_honda_amaze_2g_spec_2025",
+        "issuer": "Honda Cars India Ltd.",
+        "publishedDate": "2025-02-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "Honda Amaze 2nd Generation 1,199 cc petrol, manual and CVT specifications, with fuel type stated as compliant with E20 petrol.",
+        "supportingText": "The leaflet states a nominal 35-litre fuel tank and E20 compliance; it does not state calibration, warranty treatment, or any supported blend above E20.",
+        "title": "Honda Amaze 2nd Generation specification leaflet",
+        "url": "https://www.hondacarindia.com/web-data/brochures/pdfs/04022025_Amaze%20Spec_Leaflet%20Rev%20copy.pdf"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_honda_range_2025",
+        "issuer": "Honda Cars India Ltd.",
+        "publishedDate": "2025-02-06",
+        "retrievedDate": "2026-07-10",
+        "scope": "All Honda cars manufactured in India from 1 January 2009 for material compatibility; named current models and 2nd Generation Amaze for E20 certification.",
+        "supportingText": "The source does not state calibration details, a maximum supported blend above E20, or an ethanol-specific warranty promise.",
+        "title": "Honda Cars India achieves E20 Compliance across its product range towards a sustainable future",
+        "url": "https://www.hondacarindia.com/press-release/achieves-e20-compliance-across-its-product-range-towards-a-sustainable-future"
+      }
+    ],
+    "summary": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition. If your Honda was manufactured in India from 1 January 2009, Honda says E20 can be used without changing parts. Honda reports E20 compliance certification for the 2nd Generation Amaze. Honda's specification leaflet identifies this 1.2-litre Amaze as E20 compliant. E20 is source-backed; tuning detail, ethanol-specific warranty wording, and any higher-blend limit remain unestablished.",
+    "transmissionE20Coverage": "all",
+    "transmissions": [
+      "MT",
+      "CVT"
+    ],
+    "trimRangeApplicability": [
+      "S"
+    ],
+    "variant": "2nd Generation"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "Imported Hondas and cars whose India manufacture cannot be confirmed are outside the stated scope.",
+        "headline": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition.",
+        "kind": "materials",
+        "state": "partiallySupported"
+      },
+      {
+        "detail": "E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": null,
+    "e20State": "partiallySupported",
+    "e25State": "notDeclared",
+    "engine": "Petrol engine",
+    "engineCode": null,
+    "engineDisplacementCC": null,
+    "evidenceTier": "oemCohort",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20 materials",
+    "id": "seed-veh_honda_city_india_2010",
+    "make": "Honda",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "City",
+    "nextAction": "Year/engine-specific owner manual, homologation or certificate record, and explicit OEM warranty guidance.",
+    "productionEnd": "2010-12",
+    "productionEndDate": "2010-12-31",
+    "productionStart": "2010-01",
+    "productionStartDate": "2010-01-01",
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_honda_range_2025",
+        "issuer": "Honda Cars India Ltd.",
+        "publishedDate": "2025-02-06",
+        "retrievedDate": "2026-07-10",
+        "scope": "All Honda cars manufactured in India from 1 January 2009 for material compatibility; named current models and 2nd Generation Amaze for E20 certification.",
+        "supportingText": "The source does not state calibration details, a maximum supported blend above E20, or an ethanol-specific warranty promise.",
+        "title": "Honda Cars India achieves E20 Compliance across its product range towards a sustainable future",
+        "url": "https://www.hondacarindia.com/press-release/achieves-e20-compliance-across-its-product-range-towards-a-sustainable-future"
+      }
+    ],
+    "summary": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition. If your Honda was manufactured in India from 1 January 2009, Honda says E20 can be used without changing parts. E20 material compatibility is stated; tuning, certification, warranty wording, and any maximum blend are not yet established for this exact City.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [],
+    "trimRangeApplicability": null,
+    "variant": "2010 India-manufactured petrol cohort; generation and engine unresolved"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "Confirm that the selected car was manufactured in India so the OEM cohort statement applies.",
+        "headline": "Honda reports E20-compatible materials for India-built cars since 2009",
+        "kind": "materials",
+        "state": "partiallySupported"
+      },
+      {
+        "detail": "Honda's cohort statement is about materials; the owner manual remains the best place for configuration-specific operating guidance.",
+        "headline": "Keep the exact engine guidance with your car",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "The 2025 current-range announcement is kept separate from this 2018 cohort.",
+        "headline": "Use the certification for this build period",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "The applicable warranty wording, service history and diagnosed cause guide an individual claim.",
+        "headline": "Keep the written warranty terms with your vehicle file",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": null,
+    "e20State": "partiallySupported",
+    "e25State": "notDeclared",
+    "engine": "Petrol engine; exact configuration unresolved",
+    "engineCode": null,
+    "engineDisplacementCC": null,
+    "evidenceTier": "oemCohort",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20 materials",
+    "id": "honda-city-petrol-2018",
+    "make": "Honda",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is available here. Compare at least three full-tank intervals under broadly similar conditions.",
+      "headline": "Measure before drawing a conclusion",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "City",
+    "nextAction": "Confirm India manufacture and the exact engine/build from the vehicle documents, then keep Honda's cohort statement with the owner manual and warranty booklet.",
+    "productionEnd": "2018-12",
+    "productionEndDate": "2018-12-31",
+    "productionStart": "2018-01",
+    "productionStartDate": "2018-01-01",
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_honda_range_2025",
+        "issuer": "Honda Cars India Ltd.",
+        "publishedDate": "2025-02-06",
+        "retrievedDate": "2026-07-10",
+        "scope": "All Honda cars manufactured in India from 1 January 2009 for material compatibility; named current models and 2nd Generation Amaze for E20 certification.",
+        "supportingText": "The source does not state calibration details, a maximum supported blend above E20, or an ethanol-specific warranty promise.",
+        "title": "Honda Cars India achieves E20 Compliance across its product range towards a sustainable future",
+        "url": "https://www.hondacarindia.com/press-release/achieves-e20-compliance-across-its-product-range-towards-a-sustainable-future"
+      }
+    ],
+    "summary": "Honda reports E20-compatible fuel-system materials for cars manufactured in India from January 2009. An India-built 2018 City therefore has a useful OEM cohort signal; confirm the build origin and exact engine in your vehicle documents.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [],
+    "trimRangeApplicability": null,
+    "variant": "2018 petrol cohort; India manufacture and exact engine must be confirmed"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "Confirm India manufacture in the vehicle documents so the OEM material statement applies.",
+        "headline": "Honda reports E20-compatible materials for India-built cars since 2009",
+        "kind": "materials",
+        "state": "partiallySupported"
+      },
+      {
+        "detail": "The announcement does not publish a separate calibration note for each engine and variant.",
+        "headline": "Honda's range certification is the available OEM signal",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Keep this as OEM range evidence and match the exact variant/build through the owner documents.",
+        "headline": "Honda names City in its E20-certified current range",
+        "kind": "certification",
+        "state": "partiallySupported"
+      },
+      {
+        "detail": "The written warranty, service history and diagnosis remain the reference for an individual repair claim.",
+        "headline": "Keep the applicable warranty terms with your vehicle file",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Sedan",
+    "e20State": "partiallySupported",
+    "e25State": "notDeclared",
+    "engine": "Petrol engine · match exact variant in owner documents",
+    "engineCode": null,
+    "engineDisplacementCC": 1498,
+    "evidenceTier": "oemCohort",
+    "fuelTankCapacityLitres": 40,
+    "fuelTankCapacitySourceID": "src_honda_city_brochure_2025",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20",
+    "id": "honda-city-petrol-2025",
+    "make": "Honda",
+    "mileageGuidance": {
+      "detail": "ARAI reports a 2–6% laboratory fuel-efficiency effect for validated E20 vehicles. Your route, tyres, traffic, AC use and maintenance also matter.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": 6,
+      "minimumPercent": 2
+    },
+    "model": "City",
+    "nextAction": "Keep Honda's E20 range statement with the owner manual, exact engine/build details and written warranty terms for your car.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "Current range cited 6 February 2025",
+    "productionStartDate": null,
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_honda_range_2025",
+        "issuer": "Honda Cars India Ltd.",
+        "publishedDate": "2025-02-06",
+        "retrievedDate": "2026-07-10",
+        "scope": "All Honda cars manufactured in India from 1 January 2009 for material compatibility; named current models and 2nd Generation Amaze for E20 certification.",
+        "supportingText": "The source does not state calibration details, a maximum supported blend above E20, or an ethanol-specific warranty promise.",
+        "title": "Honda Cars India achieves E20 Compliance across its product range towards a sustainable future",
+        "url": "https://www.hondacarindia.com/press-release/achieves-e20-compliance-across-its-product-range-towards-a-sustainable-future"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
+      {
+        "dateLabel": "Document date",
+        "id": "src_honda_city_brochure_2025",
+        "issuer": "Honda Cars India Ltd.",
+        "publishedDate": "2025-02",
+        "retrievedDate": "2026-07-11",
+        "scope": "Honda City India-market petrol range in the February 2025 brochure; the technical specification on PDF page 24 lists a nominal 40-litre fuel tank.",
+        "supportingText": "Nominal capacity is approximate; the amount accepted at a pump depends on the fuel already present and the automatic cut-off.",
+        "title": "Honda City brochure dated February 2025",
+        "url": "https://www.hondacarindia.com/web-data/brochures/pdfs/Honda%20City%20Brochure%20dated%20Feb%2025.pdf"
+      }
+    ],
+    "summary": "Honda's 6 February 2025 release names the then-current City range as E20-certified, giving drivers a clear OEM-backed E20 signal at range level. Match the exact engine and build in your owner documents for a complete vehicle file.",
+    "transmissionE20Coverage": "all",
+    "transmissions": [
+      "MT",
+      "CVT"
+    ],
+    "trimRangeApplicability": [
+      "SV",
+      "V",
+      "VX",
+      "ZX"
+    ],
+    "variant": "City petrol range named in Honda's E20 statement (6 Feb 2025)"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "Imported Hondas and cars whose India manufacture cannot be confirmed are outside the stated scope.",
+        "headline": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition.",
+        "kind": "materials",
+        "state": "partiallySupported"
+      },
+      {
+        "detail": "Honda's E20 certification is clear; calibration detail, warranty wording, and any maximum blend are not yet established here.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Exact vehicle matching needs an engine/variant/build boundary from a brochure, manual, certificate, or OEM feed.",
+        "headline": "Honda announced E20 compliance certification for its then-current Elevate range; exact vehicle matching still needs build details.",
+        "kind": "certification",
+        "state": "partiallySupported"
+      },
+      {
+        "detail": "Honda's E20 certification is clear; calibration detail, warranty wording, and any maximum blend are not yet established here.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": null,
+    "e20State": "partiallySupported",
+    "e25State": "notDeclared",
+    "engine": "1.5 L i-VTEC DOHC with VTC",
+    "engineCode": null,
+    "engineDisplacementCC": 1498,
+    "evidenceTier": "oemCohort",
+    "fuelTankCapacityLitres": 40,
+    "fuelTankCapacitySourceID": "src_honda_elevate_brochure_2025",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20",
+    "id": "seed-veh_honda_elevate_current_2025",
+    "make": "Honda",
+    "mileageGuidance": {
+      "detail": "ARAI reports a 2–6% laboratory efficiency effect for validated E20 vehicles. Real-world results also depend on route, tyres, traffic, AC use and maintenance.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": 6,
+      "minimumPercent": 2
+    },
+    "model": "Elevate",
+    "nextAction": "Variant/build-specific manual or brochure, homologation detail, and explicit warranty guidance.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "Current Honda model range as at 6 February 2025",
+    "productionStartDate": null,
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
+      {
+        "dateLabel": "Document date",
+        "id": "src_honda_elevate_brochure_2025",
+        "issuer": "Honda Cars India Ltd.",
+        "publishedDate": "2025-02",
+        "retrievedDate": "2026-07-11",
+        "scope": "Honda Elevate India-market petrol range in the February 2025 brochure; the technical specification on PDF page 27 lists a nominal 40-litre fuel tank.",
+        "supportingText": "Nominal capacity is approximate; the amount accepted at a pump depends on the fuel already present and the automatic cut-off.",
+        "title": "Honda Elevate brochure dated February 2025",
+        "url": "https://www.hondacarindia.com/web-data/brochures/pdfs/Honda%20Elevate%20Brochure_dated%20Feb%2025.pdf"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_honda_range_2025",
+        "issuer": "Honda Cars India Ltd.",
+        "publishedDate": "2025-02-06",
+        "retrievedDate": "2026-07-10",
+        "scope": "All Honda cars manufactured in India from 1 January 2009 for material compatibility; named current models and 2nd Generation Amaze for E20 certification.",
+        "supportingText": "The source does not state calibration details, a maximum supported blend above E20, or an ethanol-specific warranty promise.",
+        "title": "Honda Cars India achieves E20 Compliance across its product range towards a sustainable future",
+        "url": "https://www.hondacarindia.com/press-release/achieves-e20-compliance-across-its-product-range-towards-a-sustainable-future"
+      }
+    ],
+    "summary": "Honda states that India-manufactured cars from 1 January 2009 are materially compatible with E20; confirm that your car meets that build condition. If your Honda was manufactured in India from 1 January 2009, Honda says E20 can be used without changing parts. Honda announced E20 compliance certification for its then-current Elevate range; exact vehicle matching still needs build details. Honda's E20 certification is clear; calibration detail, warranty wording, and any maximum blend are not yet established here.",
+    "transmissionE20Coverage": "all",
+    "transmissions": [
+      "MT",
+      "CVT"
+    ],
+    "trimRangeApplicability": [
+      "SV",
+      "V",
+      "VX",
+      "ZX",
+      "ZX Black Edition"
+    ],
+    "variant": "Current Honda model range as at 6 February 2025"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "Hatchback",
+    "e20State": "partiallySupported",
+    "e25State": "notDeclared",
+    "engine": "Petrol engine",
+    "engineCode": null,
+    "engineDisplacementCC": null,
+    "evidenceTier": "oemCohort",
+    "fuelTankCapacityLitres": 32,
+    "fuelTankCapacitySourceID": "src_maruti_wagonr_specs_current",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20",
+    "id": "seed-veh_maruti_wagonr_production_2023",
+    "make": "Maruti Suzuki",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "WagonR",
+    "nextAction": "Engine/build-specific owner manual or OEM data feed plus certification and warranty records for production WagonR.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "Conventional production model present in the fleet in 2023",
+    "productionStartDate": null,
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_maruti_fleet_2023",
+        "issuer": "Maruti Suzuki India Limited",
+        "publishedDate": "2023-06-05",
+        "retrievedDate": "2026-07-10",
+        "scope": "Maruti Suzuki fleet statement saying its vehicles were already compatible with E20 as of the publication date.",
+        "supportingText": "The statement does not identify models, engines, manufacture dates, certification, calibration, warranty, or a maximum blend.",
+        "title": "Maruti Suzuki steps up efforts towards harnessing renewable energy: Groundbreaking of two new solar power plants at Maruti Suzuki facilities",
+        "url": "https://www.marutisuzuki.com/corporate/media/press-releases/2023/june/maruti-suzuki-steps-up-efforts-towards-harnessing-renewable-energy"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_maruti_wagonr_flex_prototype_2022",
+        "issuer": "Maruti Suzuki India Limited",
+        "publishedDate": "2022-12-12",
+        "retrievedDate": "2026-07-10",
+        "scope": "A locally developed WagonR Flex Fuel prototype designed for any ethanol-petrol blend from E20 through E85, with upgraded components.",
+        "supportingText": "This is explicitly a prototype undergoing planned evaluation, not evidence for a conventional production WagonR or a production warranty.",
+        "title": "Aligned to Government's clean and green initiatives, Maruti Suzuki unveils India's first mass segment Flex Fuel prototype car",
+        "url": "https://www.marutisuzuki.com/corporate/media/press-releases/2022/december/aligned-to-governments-clean-and-green-initiatives-maruti-suzuki"
+      },
+      {
+        "dateLabel": "Retrieved",
+        "id": "src_maruti_wagonr_specs_current",
+        "issuer": "Maruti Suzuki India Limited",
+        "publishedDate": "2026-07-11",
+        "retrievedDate": "2026-07-11",
+        "scope": "Current WagonR K10C and K12N petrol technical table; every listed petrol configuration has a nominal 32-litre fuel tank.",
+        "supportingText": "Match the engine generation in the vehicle documents. Nominal capacity is approximate and is not the quantity needed at every fill.",
+        "title": "WagonR petrol technical specifications",
+        "url": "https://www.marutisuzuki.com/corporate/technology/automatic/wagonr"
+      }
+    ],
+    "summary": "Maruti Suzuki made a fleet-level E20 compatibility statement, but this WagonR still needs an exact engine and build match. A broad Maruti E20 statement exists, but your WagonR needs exact production evidence; the prototype's E85 capability does not apply.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "AMT"
+    ],
+    "trimRangeApplicability": [
+      "VXI AGS 1.0L",
+      "ZXI AGS 1.2L",
+      "ZXI+ AGS 1.2L"
+    ],
+    "variant": "Conventional production model present in the fleet in 2023"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "Maruti declares whole-car compatibility across the range but does not publish a component-level material specification in this release.",
+        "headline": "Overall E20-E100 compatibility declared",
+        "kind": "materials",
+        "state": "partiallySupported"
+      },
+      {
+        "detail": "The model is described as adapting to blends across the declared flex-fuel range.",
+        "headline": "Designed for variable blends",
+        "kind": "calibration",
+        "state": "supported"
+      },
+      {
+        "detail": "The OEM launch statement identifies E85 homologation.",
+        "headline": "Homologated using E85",
+        "kind": "certification",
+        "state": "supported"
+      },
+      {
+        "detail": "The declared fuel range does not establish the outcome of an individual repair claim. Use the applicable warranty wording and diagnosis.",
+        "headline": "No ethanol-specific warranty evidence stored",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": null,
+    "e20State": "supported",
+    "e25State": "supported",
+    "engine": "Flex-fuel engine; displacement not stated",
+    "engineCode": "K12N",
+    "engineDisplacementCC": 1197,
+    "evidenceTier": "exactOEM",
+    "fuelTankCapacityLitres": 32,
+    "fuelTankCapacitySourceID": "src_maruti_wagonr_bioflex_manual_2026",
+    "fuelType": "Flex fuel",
+    "highestDocumentedBlend": "E100",
+    "id": "maruti-wagonr-flex-fuel-2026",
+    "make": "Maruti Suzuki",
+    "mileageGuidance": {
+      "detail": "Track both km/litre and ₹/100 km across comparable full-tank intervals instead of assuming a vehicle-specific mileage effect.",
+      "headline": "Compare cost per 100 km",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "WagonR Flex Fuel",
+    "nextAction": "Use only a declared blend within the manufacturer's published range. Confirm outlet product labelling before filling.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "June 2026",
+    "productionStartDate": "2026-06-04",
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_maruti_wagonr_flex_2026",
+        "issuer": "Maruti Suzuki India Limited",
+        "publishedDate": "2026-06-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "Official June 2026 launch statement for a Wagon R flex-fuel car, declaring E20-E100 compatibility, adaptive ECU calibration, and E85 homologation; exact sales variant and engine displacement are not stated.",
+        "supportingText": "The release does not publish an engine displacement, component-level material specification, exact retail variant boundary, or warranty treatment.",
+        "title": "India Goes Flex: Maruti Suzuki launches India’s 1st Flex Fuel car",
+        "url": "https://www.marutisuzuki.com/corporate/media/press-releases/2026/june/india-goes-flex-maruti-suzuki-launches-india-s-1st-flex-fuel-car-in-the-august-presence-of-hon-ble-ministers-shri-nitin-gadkari-and-shri-hardeep-singh-puri"
+      },
+      {
+        "dateLabel": "Document date",
+        "id": "src_maruti_wagonr_bioflex_manual_2026",
+        "issuer": "Maruti Suzuki India Limited",
+        "publishedDate": "2026-05",
+        "retrievedDate": "2026-07-11",
+        "scope": "Production WagonR Bioflex owner’s manual; PDF page 267, printed page 9-9, lists a nominal 32-litre fuel tank.",
+        "supportingText": "Nominal capacity is approximate; the amount accepted at a pump depends on fuel already present and automatic cut-off.",
+        "title": "WagonR Bioflex owner’s manual",
+        "url": "https://marutisuzuki.scene7.com/is/content/maruti/WagonR-Bioflexpdf"
+      }
+    ],
+    "summary": "Maruti Suzuki declares this flex-fuel model compatible across E20 to E100 and homologated using E85.",
+    "transmissionE20Coverage": "all",
+    "transmissions": [
+      "MT"
+    ],
+    "trimRangeApplicability": null,
+    "variant": "Official June 2026 flex-fuel launch; exact sales variant unresolved"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "Renault lists E20 for this live configuration; the underlying technical and warranty dimensions need primary documentation.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "Renault lists E20 for this live configuration; the underlying technical and warranty dimensions need primary documentation.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Renault lists E20 for this live configuration; the underlying technical and warranty dimensions need primary documentation.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Renault lists E20 for this live configuration; the underlying technical and warranty dimensions need primary documentation.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": null,
+    "e20State": "partiallySupported",
+    "e25State": "notDeclared",
+    "engine": "1L petrol",
+    "engineCode": null,
+    "engineDisplacementCC": 999,
+    "evidenceTier": "exactOEM",
+    "fuelTankCapacityLitres": 40,
+    "fuelTankCapacitySourceID": "src_renault_triber_live_2026",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20",
+    "id": "seed-veh_renault_triber_authentic_1l_mt_2026",
+    "make": "Renault",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Triber",
+    "nextAction": "Dated brochure/manual, certification record, manufacture boundary, and OEM warranty guidance.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "Live Authentic configuration retrieved 10 July 2026",
+    "productionStartDate": null,
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [
+      {
+        "dateLabel": "Retrieved",
+        "id": "src_renault_triber_live_2026",
+        "issuer": "Renault India Pvt. Ltd.",
+        "publishedDate": "2026-07-10",
+        "retrievedDate": "2026-07-10",
+        "scope": "Live India configurator for Triber Authentic 1L manual, 999 cc petrol, showing fuel type as petrol/E20.",
+        "supportingText": "The live specification lists a nominal 40-litre fuel tank. It supplies no publication date and does not state whether E20 refers to material compatibility, calibration, certification, or warranty.",
+        "title": "Renault Triber configurator — Authentic 1L manual technical specification",
+        "url": "https://www.renault.co.in/cars/renault-triber/configurator.html"
+      }
+    ],
+    "summary": "Renault's current configurator lists this Triber 1L manual configuration as petrol/E20. Renault lists E20 for this live configuration; the underlying technical and warranty dimensions need primary documentation.",
+    "transmissionE20Coverage": "all",
+    "transmissions": [
+      "MT"
+    ],
+    "trimRangeApplicability": [
+      "Authentic"
+    ],
+    "variant": "Live Authentic configuration retrieved 10 July 2026"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "E20 certification is source-backed; the other technical and warranty dimensions remain separately unestablished.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "E20 certification is source-backed; the other technical and warranty dimensions remain separately unestablished.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Do not apply this result to every earlier Kushaq 1.0 TSI without confirming the E20-compliant engine/build transition.",
+        "headline": "Skoda says the 1.0 TSI in the Kushaq Onyx AT debut configuration received ARAI E20 certification.",
+        "kind": "certification",
+        "state": "supported"
+      },
+      {
+        "detail": "E20 certification is source-backed; the other technical and warranty dimensions remain separately unestablished.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "SUV",
+    "e20State": "supported",
+    "e25State": "notDeclared",
+    "engine": "1.0 TSI",
+    "engineCode": null,
+    "engineDisplacementCC": 999,
+    "evidenceTier": "exactOEM",
+    "fuelTankCapacityLitres": 50,
+    "fuelTankCapacitySourceID": "src_skoda_kushaq_brochure_2024",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20",
+    "id": "seed-veh_skoda_kushaq_onyx_at_1tsi_2024",
+    "make": "Skoda",
+    "mileageGuidance": {
+      "detail": "ARAI reports a 2–6% laboratory efficiency effect for validated E20 vehicles. Real-world results also depend on route, tyres, traffic, AC use and maintenance.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": 6,
+      "minimumPercent": 2
+    },
+    "model": "Kushaq",
+    "nextAction": "Configuration-specific owner manual, certification annex, build boundary, and OEM warranty statement.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "Onyx AT E20-compliant-engine debut configuration announced July 2024",
+    "productionStartDate": null,
+    "publishedKmpl": {
+      "blend": "unspecified",
+      "caveat": "The brochure states 18.09 km/l for the 1.0 TSI automatic under Rule 115 of CMVR; the test fuel blend is not identified.",
+      "kmpl": 18.09,
+      "sourceID": "src_skoda_kushaq_brochure_2024"
+    },
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_arai_e20_validation_2026",
+        "issuer": "Ministry of Heavy Industries / Press Information Bureau (reporting ARAI)",
+        "publishedDate": "2026-07-04",
+        "retrievedDate": "2026-07-10",
+        "scope": "General ARAI guidance for validated E20-compatible vehicles: a 2% to 6% laboratory fuel-efficiency effect and validation over approximately 40,000 to 60,000 km; not an exact-model prediction.",
+        "supportingText": "This general validation statement does not predict an individual vehicle's real-world mileage, establish exact-model compatibility, or provide a warranty assurance.",
+        "title": "ARAI Reaffirms Rigorous Validation Standards for E20 Ethanol-Blended Fuel and Vehicle Performance",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281084&lang=2&reg=48"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_skoda_1tsi_2024",
+        "issuer": "Skoda Auto India",
+        "publishedDate": "2024-07-23",
+        "retrievedDate": "2026-07-10",
+        "scope": "The 1.0 TSI manual and automatic engine used in Kushaq and Slavia; the E20-compliant engine debuted in Kushaq Onyx AT.",
+        "supportingText": "The release says later 1.0 TSI production would transition to the compliant engine, so build-date/VIN matching remains necessary outside the named debut configuration.",
+        "title": "ARAI certifies Skoda Auto India vehicles E20 compliant",
+        "url": "https://www.skoda-auto.co.in/news/news-detail/arai-certifies-skoda-auto-india-vehicles-e20-compliant"
+      },
+      {
+        "dateLabel": "Document date",
+        "id": "src_skoda_kushaq_brochure_2024",
+        "issuer": "Skoda Auto India",
+        "publishedDate": "2024",
+        "retrievedDate": "2026-07-11",
+        "scope": "India-market Kushaq brochure including the Onyx and 1.0 TSI automatic configuration; PDF page 31 lists a nominal 50-litre fuel tank.",
+        "supportingText": "Nominal capacity is approximate; match the Onyx AT 1.0 TSI configuration in the vehicle documents.",
+        "title": "Skoda Kushaq product brochure",
+        "url": "https://www.skoda-auto.co.in/_doc/8e8202cf-8a23-4518-b850-1ea961019700"
+      }
+    ],
+    "summary": "Skoda says the 1.0 TSI in the Kushaq Onyx AT debut configuration received ARAI E20 certification. E20 certification is source-backed; the other technical and warranty dimensions remain separately unestablished.",
+    "transmissionE20Coverage": "explicit_breakdown",
+    "transmissions": [
+      "AT"
+    ],
+    "trimRangeApplicability": [
+      "Onyx"
+    ],
+    "variant": "Onyx AT E20-compliant-engine debut configuration announced July 2024"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "calibration",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "certification",
+        "state": "notDeclared"
+      },
+      {
+        "detail": "Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
+        "headline": "Not established for this exact vehicle",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": "SUV",
+    "e20State": "partiallySupported",
+    "e25State": "notDeclared",
+    "engine": "1.2 Revotron",
+    "engineCode": null,
+    "engineDisplacementCC": 1199,
+    "evidenceTier": "oemCohort",
+    "fuelTankCapacityLitres": 37,
+    "fuelTankCapacitySourceID": "src_tata_punch_product_note_2021",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "E20",
+    "id": "seed-veh_tata_punch_bs6ii_petrol_2023",
+    "make": "Tata",
+    "mileageGuidance": {
+      "detail": "No exact-model mileage promise is established here. Compare at least three complete full-tank intervals under broadly similar conditions.",
+      "headline": "Build your own three-fill baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Punch",
+    "nextAction": "Punch engine/manual record, manufacture-month boundary, certification evidence, and explicit warranty position.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "BS6 Phase II passenger-vehicle range introduced in February 2023",
+    "productionStartDate": null,
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [
+      {
+        "dateLabel": "Published",
+        "id": "src_tata_bs6ii_2023",
+        "issuer": "Tata Motors Passenger Vehicles Ltd.",
+        "publishedDate": "2023-02-11",
+        "retrievedDate": "2026-07-10",
+        "scope": "BS6 Phase II passenger-vehicle range introduced with RDE and E20-compliant engines; Punch and Altroz are named in the release.",
+        "supportingText": "The announcement does not give a VIN or manufacture-month boundary and does not separate material, calibration, certification, or warranty dimensions.",
+        "title": "Tata Motors completes BS6 Phase II transition; refreshes Passenger Vehicle portfolio with enhanced features",
+        "url": "https://www.tatamotors.com/wp-content/uploads/2023/11/press-11feb23.pdf"
+      },
+      {
+        "dateLabel": "Published",
+        "id": "src_tata_punch_product_note_2021",
+        "issuer": "Tata Motors Passenger Vehicles Ltd.",
+        "publishedDate": "2021-10-18",
+        "retrievedDate": "2026-07-11",
+        "scope": "Official launch product note for the India-market petrol Punch; the technical table lists a nominal 37-litre fuel tank.",
+        "supportingText": "The displayed vehicle is a 2023 BS6 Phase II cohort, while this specification is for the 2021 launch vehicle. Confirm the exact model year and variant in the owner manual. Nominal capacity is approximate and is not the quantity needed at every fill.",
+        "title": "All New Tata Punch technical product note",
+        "url": "https://www.tatamotors.com/wp-content/uploads/2023/11/press-18oct21-product-note.pdf"
+      }
+    ],
+    "summary": "Tata's BS6 Phase II range announcement covers E20-compliant engines, but your Punch needs a build-level match before a final answer. Tata's range statement is a useful lead, but this exact Punch still needs model/build-specific evidence.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [
+      "MT",
+      "AMT"
+    ],
+    "trimRangeApplicability": [
+      "Pure",
+      "Adventure",
+      "Accomplished",
+      "Creative"
+    ],
+    "variant": "BS6 Phase II passenger-vehicle range introduced in February 2023"
+  },
+  {
+    "assessments": [
+      {
+        "detail": "No vehicle-specific material statement is stored.",
+        "headline": "Source needed",
+        "kind": "materials",
+        "state": "unknown"
+      },
+      {
+        "detail": "No vehicle-specific calibration statement is stored.",
+        "headline": "Source needed",
+        "kind": "calibration",
+        "state": "unknown"
+      },
+      {
+        "detail": "No vehicle-specific certification statement is stored.",
+        "headline": "Source needed",
+        "kind": "certification",
+        "state": "unknown"
+      },
+      {
+        "detail": "Use the exact manual and warranty edition for this vehicle.",
+        "headline": "Check your documents",
+        "kind": "warranty",
+        "state": "unknown"
+      }
+    ],
+    "bodyStyle": null,
+    "e20State": "unknown",
+    "e25State": "unknown",
+    "engine": "Not specified",
+    "engineCode": null,
+    "engineDisplacementCC": null,
+    "evidenceTier": "notVerified",
+    "fuelType": "Petrol",
+    "highestDocumentedBlend": "Not established",
+    "id": "vehicle-source-needed",
+    "make": "Vehicle not listed",
+    "mileageGuidance": {
+      "detail": "Log at least three full-tank intervals. A change in mileage alone does not establish its cause.",
+      "headline": "Start with a reliable baseline",
+      "maximumPercent": null,
+      "minimumPercent": null
+    },
+    "model": "Add from documents",
+    "nextAction": "Photograph the fuel-cap label and save the correct owner-manual page. Ask the manufacturer for a written blend limit before using a higher blend.",
+    "productionEnd": null,
+    "productionEndDate": null,
+    "productionStart": "Unknown",
+    "productionStartDate": null,
+    "publishedKmpl": null,
+    "recordTimestamp": "2026-07-17T07:06:22Z",
+    "sources": [],
+    "summary": "My Petrol Passport does not yet have enough authoritative evidence to answer for this exact vehicle.",
+    "transmissionE20Coverage": "unspecified",
+    "transmissions": [],
+    "trimRangeApplicability": null,
+    "variant": "Petrol"
+  }
+]
