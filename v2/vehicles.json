@@ -53,7 +53,7 @@
     "productionStart": "2nd Generation",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -98,6 +98,7 @@
     "trimRangeApplicability": [
       "S"
     ],
+    "tuningSeeds": null,
     "variant": "2nd Generation"
   },
   {
@@ -152,7 +153,7 @@
     "productionStart": "2010-01",
     "productionStartDate": "2010-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -170,6 +171,7 @@
     "transmissionE20Coverage": "unspecified",
     "transmissions": [],
     "trimRangeApplicability": null,
+    "tuningSeeds": null,
     "variant": "2010 India-manufactured petrol cohort; generation and engine unresolved"
   },
   {
@@ -223,7 +225,7 @@
     "productionStart": "2018-01",
     "productionStartDate": "2018-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -296,7 +298,7 @@
     "productionStart": "Current range cited 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -400,7 +402,7 @@
     "productionStart": "Current Honda model range as at 6 February 2025",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -449,6 +451,7 @@
       "ZX",
       "ZX Black Edition"
     ],
+    "tuningSeeds": null,
     "variant": "Current Honda model range as at 6 February 2025"
   },
   {
@@ -489,12 +492,12 @@
         "value": "RON 91+ unleaded · up to 20% ethanol"
       },
       {
-        "detail": "Normal load, 16\" and 17\" wheels; +20 kPa permitted for sustained highway speeds.",
+        "detail": "Checked cold; add up to 3 psi for sustained highway running.",
         "pageRef": "p29",
         "sourceID": "src_hyundai_creta_manual_2020_2024",
         "systemImage": "circle.circle",
         "topic": "Tyre pressure",
-        "value": "230 kPa (33 psi) front & rear"
+        "value": "33 psi front & rear"
       },
       {
         "detail": null,
@@ -537,8 +540,13 @@
     "productionEndDate": null,
     "productionStart": "2020-03",
     "productionStartDate": "2020-03-01",
-    "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "publishedKmpl": {
+      "blend": "petrol (pre-E20 label)",
+      "caveat": "ARAI laboratory figure as reported by secondary sources (Team-BHP/CarDekho); not an OEM brochure figure and not an on-road promise.",
+      "kmpl": 16.8,
+      "sourceID": "src_teambhp_creta2_realworld"
+    },
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Document date",
@@ -561,6 +569,17 @@
         "supportingText": "A usage boundary, not an E20 certification or warranty statement; the manual also advises discontinuing gasohol if drivability problems occur. Local copy retained at DataResearch/brochures/hyundai-creta/.",
         "title": "Creta owner's manual, September 2020 - January 2024 generation (Wayback Machine snapshot, 19 April 2025)",
         "url": "https://web.archive.org/web/20250419081759/https://www.hyundai.com/content/dam/hyundai/in/en/data/connect-to-service/owners-manual/2025/creta-sep2020-Jan2024.pdf"
+      },
+      {
+        "dateLabel": "Document date",
+        "id": "src_teambhp_creta2_realworld",
+        "issuer": "Team-BHP",
+        "publishedDate": "2023-01-01",
+        "retrievedDate": "2026-07-17",
+        "scope": "Owner-reported real-world fuel efficiency for the 2nd-gen Creta; 1.4 turbo DCT owners report roughly 11-13 km/l in city running and 15-16 km/l on highway; ARAI figure 16.8 km/l for the 1.4 turbo DCT.",
+        "supportingText": "SECONDARY source (enthusiast publication, owner reports) — used for indicative tuning seeds and the ARAI figure under the two-tier policy; not an OEM document.",
+        "title": "Real-world fuel efficiency of the 2nd-gen Hyundai Creta",
+        "url": "https://www.team-bhp.com/news/real-world-fuel-efficiency-2nd-gen-hyundai-creta"
       }
     ],
     "summary": "Hyundai's owner manual for this generation permits petrol blended up to 20% ethanol (and prohibits methanol); treat this as the stated usage limit, not an E20 certification. The owner manual's up-to-20%-ethanol usage limit is stated; calibration, certification and warranty positions are not yet established for this generation.",
@@ -571,6 +590,12 @@
     "trimRangeApplicability": [
       "Offered in upper trims including SX and SX(O) per the Jan-Feb 2023 brochure trim plan"
     ],
+    "tuningSeeds": {
+      "caveat": "Owner-reported real-world figures (secondary); starting points for the driver's own tuning.",
+      "cityKmPerLitre": 12.0,
+      "highwayKmPerLitre": 15.5,
+      "sourceID": "src_teambhp_creta2_realworld"
+    },
     "variant": "2020-2023 generation · 1.4 l Kappa turbo GDi petrol · 7-speed DCT"
   },
   {
@@ -611,12 +636,12 @@
         "value": "RON 91+ unleaded · up to 20% ethanol"
       },
       {
-        "detail": "Normal load, 16\" and 17\" wheels; +20 kPa permitted for sustained highway speeds.",
+        "detail": "Checked cold; add up to 3 psi for sustained highway running.",
         "pageRef": "p29",
         "sourceID": "src_hyundai_creta_manual_2020_2024",
         "systemImage": "circle.circle",
         "topic": "Tyre pressure",
-        "value": "230 kPa (33 psi) front & rear"
+        "value": "33 psi front & rear"
       },
       {
         "detail": null,
@@ -660,7 +685,7 @@
     "productionStart": "2020-03",
     "productionStartDate": "2020-03-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Document date",
@@ -694,6 +719,7 @@
     "trimRangeApplicability": [
       "Available across E, EX, S, SX and SX(O) trims per the Jan-Feb 2023 brochure trim plan"
     ],
+    "tuningSeeds": null,
     "variant": "2020-2023 generation · 1.5 l MPi petrol · 6MT/IVT"
   },
   {
@@ -750,7 +776,7 @@
     "productionStart": "Conventional production model present in the fleet in 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -796,6 +822,7 @@
       "ZXI AGS 1.2L",
       "ZXI+ AGS 1.2L"
     ],
+    "tuningSeeds": null,
     "variant": "Conventional production model present in the fleet in 2023"
   },
   {
@@ -851,7 +878,7 @@
     "productionStart": "June 2026",
     "productionStartDate": "2026-06-04",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -938,7 +965,7 @@
     "productionStart": "Live Authentic configuration retrieved 10 July 2026",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Retrieved",
@@ -960,6 +987,7 @@
     "trimRangeApplicability": [
       "Authentic"
     ],
+    "tuningSeeds": null,
     "variant": "Live Authentic configuration retrieved 10 July 2026"
   },
   {
@@ -1021,7 +1049,7 @@
       "kmpl": 18.09,
       "sourceID": "src_skoda_kushaq_brochure_2024"
     },
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1065,6 +1093,7 @@
     "trimRangeApplicability": [
       "Onyx"
     ],
+    "tuningSeeds": null,
     "variant": "Onyx AT E20-compliant-engine debut configuration announced July 2024"
   },
   {
@@ -1121,7 +1150,7 @@
     "productionStart": "BS6 Phase II passenger-vehicle range introduced in February 2023",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -1158,6 +1187,7 @@
       "Accomplished",
       "Creative"
     ],
+    "tuningSeeds": null,
     "variant": "BS6 Phase II passenger-vehicle range introduced in February 2023"
   },
   {
@@ -1211,7 +1241,7 @@
     "productionStart": "Unknown",
     "productionStartDate": null,
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-17T10:45:50Z",
+    "recordTimestamp": "2026-07-17T11:13:15Z",
     "sources": [],
     "summary": "My Petrol Passport does not yet have enough authoritative evidence to answer for this exact vehicle.",
     "transmissionE20Coverage": "unspecified",
