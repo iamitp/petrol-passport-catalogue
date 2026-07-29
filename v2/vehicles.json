@@ -8479,7 +8479,7 @@
     "productionStart": "2021-01",
     "productionStartDate": "2021-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-29T02:02:52Z",
+    "recordTimestamp": "2026-07-29T02:20:44Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -8498,15 +8498,15 @@
       {
         "dateLabel": "Published",
         "id": "src_mercedes_india_advisory_july_2026",
-        "issuer": "Mercedes-Benz India Pvt. Ltd.",
+        "issuer": "Free Press Journal reporting a Mercedes-Benz India statement",
         "issuerType": "secondary",
         "primarySource": false,
         "publishedDate": "2026-07-12",
         "retrievedDate": "2026-07-24",
-        "scope": "Mercedes-Benz India official advisory (July 12, 2026) issued via press coverage and Mercedes-Benz India's official X (Twitter) account. Official statement: 'All Mercedes-Benz petrol BS VI vehicles are materially compatible with E20 fuel and have been certified by the relevant authorities.' Scope: BS VI vehicles only (April 2023 manufacturing standard onwards). Applies to GLA C118, GLC C253, and GLC C205 vehicles manufactured from April 2023 onwards.",
+        "scope": "Free Press Journal attributes a broad E20 compatibility statement to Mercedes-Benz India in July 2026 after public mileage concerns.",
         "sourceType": "secondary_report",
-        "supportingText": "Advisory issued July 12, 2026 (12 days before pack research date of July 24, 2026). Statement explicitly limits scope to BS VI vehicles manufactured from April 2023 onwards under BS6 Phase 2 norms. Pre-April 2023 units (BS4) retain OEM manual and fuel filler specifications capping fuel at E10. The advisory supersedes earlier manual wording for BS VI vehicles only.",
-        "title": "Mercedes-Benz India E20 Fuel Compatibility Advisory",
+        "supportingText": "SECONDARY ATTRIBUTION: the direct Mercedes-Benz India statement and model-level certificates were not located. This report is context only and cannot establish compatibility, certification or warranty for a specific vehicle.",
+        "title": "Free Press Journal report on a Mercedes-Benz India E20 statement",
         "url": "https://www.freepressjournal.in/india/mercedes-benz-india-clarifies-e20-fuel-compatibility-after-viral-mileage-claims-spark-debate"
       },
       {
@@ -8747,7 +8747,7 @@
     "productionStart": "2025-01",
     "productionStartDate": "2025-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-29T02:03:56Z",
+    "recordTimestamp": "2026-07-29T02:20:44Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -8771,10 +8771,10 @@
         "primarySource": false,
         "publishedDate": "2026-07-13",
         "retrievedDate": "2026-07-24",
-        "scope": "Official Mercedes-Benz India statement (reported by multiple news outlets, July 2026): 'All Mercedes-Benz petrol BS VI vehicles are materially compatible with E20 fuel and certified accordingly by relevant authorities.' Issued in response to YouTuber Sourav Joshi's viral claim that E20 fuel caused significant mileage drop in his Mercedes GLC. Mercedes-Benz India emphasised customer safety, vehicle reliability, and performance, asserting E20 certification by relevant authorities. MD & CEO Santosh Iyer in earlier interviews (Autocar Professional) stated: 'We made every car E20-compatible when we shifted to Euro 6 in 2018, two years ahead of the industry deadline' and noted that from 2024, the company began issuing E20 compliance certificates for all models after ARAI testing.",
+        "scope": "Pragativadi attributes a broad E20 compatibility statement to Mercedes-Benz India in July 2026 after public mileage concerns.",
         "sourceType": "secondary_report",
-        "supportingText": "Statement is broad and not model-specific. Claims all BS VI petrol vehicles are E20-compatible, but contradicted by (a) existing owner manuals recommending E10 only, (b) fuel filler caps showing E5/E10, (c) evidence that E20 engineering timeline began April 2023 (three years after BS VI shift). W206 India launch (2022) predates explicit E20 engineering milestone. Statement appears responsive to viral controversy rather than reflecting documented technical specifications. No detailed E20 certification registry by model or production batch published.",
-        "title": "Mercedes-Benz India Clarifies E20 Fuel Compatibility After Sourav Joshi's Mileage Concerns — Official Advisory, July 2026",
+        "supportingText": "SECONDARY ATTRIBUTION: the direct Mercedes-Benz India statement and model-level certificates were not located. This report is context only and cannot establish compatibility, certification or warranty for a specific vehicle.",
+        "title": "Pragativadi report on a Mercedes-Benz India E20 statement",
         "url": "https://pragativadi.com/mercedes-benz-india-clarifies-e20-fuel-compatibility-after-sourav-joshis-mileage-drop-claim/"
       },
       {
@@ -8913,7 +8913,7 @@
     "productionStart": "2020-04",
     "productionStartDate": "2020-04-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-29T02:03:31Z",
+    "recordTimestamp": "2026-07-29T02:20:44Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -8954,7 +8954,7 @@
         "scope": "Herald Goa reports a July 2026 Mercedes-Benz India statement that all Mercedes-Benz petrol BS VI vehicles are materially compatible with E20 and certified accordingly.",
         "sourceType": "secondary_report",
         "supportingText": "SECONDARY ATTRIBUTION: the direct Mercedes-Benz India advisory or model-level certification was not located. This report may be displayed as media context, but it cannot drive an OEM-primary compatibility verdict or supersede an owner manual.",
-        "title": "Mercedes-Benz India Customer Advisory: E20 Fuel Compatibility (July 13, 2026)",
+        "title": "Herald Goa report on a Mercedes-Benz India E20 statement",
         "url": "https://www.heraldgoa.in/globe-nation/mercedes-benz-india-clarifies-e20-compatibility-after-sourav-joshis-mileage-concerns/481683/"
       },
       {
@@ -9038,7 +9038,7 @@
     "productionStart": "2020-04",
     "productionStartDate": "2020-04-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-29T02:03:31Z",
+    "recordTimestamp": "2026-07-29T02:20:44Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -9079,7 +9079,7 @@
         "scope": "Herald Goa reports a July 2026 Mercedes-Benz India statement that all Mercedes-Benz petrol BS VI vehicles are materially compatible with E20 and certified accordingly.",
         "sourceType": "secondary_report",
         "supportingText": "SECONDARY ATTRIBUTION: the direct Mercedes-Benz India advisory or model-level certification was not located. This report may be displayed as media context, but it cannot drive an OEM-primary compatibility verdict or supersede an owner manual.",
-        "title": "Mercedes-Benz India Customer Advisory: E20 Fuel Compatibility (July 13, 2026)",
+        "title": "Herald Goa report on a Mercedes-Benz India E20 statement",
         "url": "https://www.heraldgoa.in/globe-nation/mercedes-benz-india-clarifies-e20-compatibility-after-sourav-joshis-mileage-concerns/481683/"
       },
       {
@@ -9162,7 +9162,7 @@
     "productionStart": "2023-04",
     "productionStartDate": "2023-04-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-29T02:02:52Z",
+    "recordTimestamp": "2026-07-29T02:20:44Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -9181,15 +9181,15 @@
       {
         "dateLabel": "Published",
         "id": "src_mercedes_india_advisory_july_2026",
-        "issuer": "Mercedes-Benz India Pvt. Ltd.",
+        "issuer": "Free Press Journal reporting a Mercedes-Benz India statement",
         "issuerType": "secondary",
         "primarySource": false,
         "publishedDate": "2026-07-12",
         "retrievedDate": "2026-07-24",
-        "scope": "Mercedes-Benz India official advisory (July 12, 2026) issued via press coverage and Mercedes-Benz India's official X (Twitter) account. Official statement: 'All Mercedes-Benz petrol BS VI vehicles are materially compatible with E20 fuel and have been certified by the relevant authorities.' Scope: BS VI vehicles only (April 2023 manufacturing standard onwards). Applies to GLA C118, GLC C253, and GLC C205 vehicles manufactured from April 2023 onwards.",
+        "scope": "Free Press Journal attributes a broad E20 compatibility statement to Mercedes-Benz India in July 2026 after public mileage concerns.",
         "sourceType": "secondary_report",
-        "supportingText": "Advisory issued July 12, 2026 (12 days before pack research date of July 24, 2026). Statement explicitly limits scope to BS VI vehicles manufactured from April 2023 onwards under BS6 Phase 2 norms. Pre-April 2023 units (BS4) retain OEM manual and fuel filler specifications capping fuel at E10. The advisory supersedes earlier manual wording for BS VI vehicles only.",
-        "title": "Mercedes-Benz India E20 Fuel Compatibility Advisory",
+        "supportingText": "SECONDARY ATTRIBUTION: the direct Mercedes-Benz India statement and model-level certificates were not located. This report is context only and cannot establish compatibility, certification or warranty for a specific vehicle.",
+        "title": "Free Press Journal report on a Mercedes-Benz India E20 statement",
         "url": "https://www.freepressjournal.in/india/mercedes-benz-india-clarifies-e20-fuel-compatibility-after-viral-mileage-claims-spark-debate"
       }
     ],
@@ -9264,7 +9264,7 @@
     "productionStart": "2025-01",
     "productionStartDate": "2025-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-29T02:03:56Z",
+    "recordTimestamp": "2026-07-29T02:20:44Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -9297,15 +9297,15 @@
       {
         "dateLabel": "Published",
         "id": "src_mercedes_india_advisory_july_2026",
-        "issuer": "Mercedes-Benz India Pvt. Ltd.",
+        "issuer": "Free Press Journal reporting a Mercedes-Benz India statement",
         "issuerType": "secondary",
         "primarySource": false,
         "publishedDate": "2026-07-12",
         "retrievedDate": "2026-07-24",
-        "scope": "Mercedes-Benz India official advisory (July 12, 2026) issued via press coverage and Mercedes-Benz India's official X (Twitter) account. Official statement: 'All Mercedes-Benz petrol BS VI vehicles are materially compatible with E20 fuel and have been certified by the relevant authorities.' Scope: BS VI vehicles only (April 2023 manufacturing standard onwards). Applies to GLA C118, GLC C253, and GLC C205 vehicles manufactured from April 2023 onwards.",
+        "scope": "Free Press Journal attributes a broad E20 compatibility statement to Mercedes-Benz India in July 2026 after public mileage concerns.",
         "sourceType": "secondary_report",
-        "supportingText": "Advisory issued July 12, 2026 (12 days before pack research date of July 24, 2026). Statement explicitly limits scope to BS VI vehicles manufactured from April 2023 onwards under BS6 Phase 2 norms. Pre-April 2023 units (BS4) retain OEM manual and fuel filler specifications capping fuel at E10. The advisory supersedes earlier manual wording for BS VI vehicles only.",
-        "title": "Mercedes-Benz India E20 Fuel Compatibility Advisory",
+        "supportingText": "SECONDARY ATTRIBUTION: the direct Mercedes-Benz India statement and model-level certificates were not located. This report is context only and cannot establish compatibility, certification or warranty for a specific vehicle.",
+        "title": "Free Press Journal report on a Mercedes-Benz India E20 statement",
         "url": "https://www.freepressjournal.in/india/mercedes-benz-india-clarifies-e20-fuel-compatibility-after-viral-mileage-claims-spark-debate"
       }
     ],
@@ -9374,7 +9374,7 @@
     "productionStart": "2023-04",
     "productionStartDate": "2023-04-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-29T02:02:52Z",
+    "recordTimestamp": "2026-07-29T02:20:44Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -9393,15 +9393,15 @@
       {
         "dateLabel": "Published",
         "id": "src_mercedes_india_advisory_july_2026",
-        "issuer": "Mercedes-Benz India Pvt. Ltd.",
+        "issuer": "Free Press Journal reporting a Mercedes-Benz India statement",
         "issuerType": "secondary",
         "primarySource": false,
         "publishedDate": "2026-07-12",
         "retrievedDate": "2026-07-24",
-        "scope": "Mercedes-Benz India official advisory (July 12, 2026) issued via press coverage and Mercedes-Benz India's official X (Twitter) account. Official statement: 'All Mercedes-Benz petrol BS VI vehicles are materially compatible with E20 fuel and have been certified by the relevant authorities.' Scope: BS VI vehicles only (April 2023 manufacturing standard onwards). Applies to GLA C118, GLC C253, and GLC C205 vehicles manufactured from April 2023 onwards.",
+        "scope": "Free Press Journal attributes a broad E20 compatibility statement to Mercedes-Benz India in July 2026 after public mileage concerns.",
         "sourceType": "secondary_report",
-        "supportingText": "Advisory issued July 12, 2026 (12 days before pack research date of July 24, 2026). Statement explicitly limits scope to BS VI vehicles manufactured from April 2023 onwards under BS6 Phase 2 norms. Pre-April 2023 units (BS4) retain OEM manual and fuel filler specifications capping fuel at E10. The advisory supersedes earlier manual wording for BS VI vehicles only.",
-        "title": "Mercedes-Benz India E20 Fuel Compatibility Advisory",
+        "supportingText": "SECONDARY ATTRIBUTION: the direct Mercedes-Benz India statement and model-level certificates were not located. This report is context only and cannot establish compatibility, certification or warranty for a specific vehicle.",
+        "title": "Free Press Journal report on a Mercedes-Benz India E20 statement",
         "url": "https://www.freepressjournal.in/india/mercedes-benz-india-clarifies-e20-fuel-compatibility-after-viral-mileage-claims-spark-debate"
       }
     ],
@@ -9471,7 +9471,7 @@
     "productionStart": "2023-04",
     "productionStartDate": "2023-04-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-29T02:02:52Z",
+    "recordTimestamp": "2026-07-29T02:20:44Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -9490,15 +9490,15 @@
       {
         "dateLabel": "Published",
         "id": "src_mercedes_india_advisory_july_2026",
-        "issuer": "Mercedes-Benz India Pvt. Ltd.",
+        "issuer": "Free Press Journal reporting a Mercedes-Benz India statement",
         "issuerType": "secondary",
         "primarySource": false,
         "publishedDate": "2026-07-12",
         "retrievedDate": "2026-07-24",
-        "scope": "Mercedes-Benz India official advisory (July 12, 2026) issued via press coverage and Mercedes-Benz India's official X (Twitter) account. Official statement: 'All Mercedes-Benz petrol BS VI vehicles are materially compatible with E20 fuel and have been certified by the relevant authorities.' Scope: BS VI vehicles only (April 2023 manufacturing standard onwards). Applies to GLA C118, GLC C253, and GLC C205 vehicles manufactured from April 2023 onwards.",
+        "scope": "Free Press Journal attributes a broad E20 compatibility statement to Mercedes-Benz India in July 2026 after public mileage concerns.",
         "sourceType": "secondary_report",
-        "supportingText": "Advisory issued July 12, 2026 (12 days before pack research date of July 24, 2026). Statement explicitly limits scope to BS VI vehicles manufactured from April 2023 onwards under BS6 Phase 2 norms. Pre-April 2023 units (BS4) retain OEM manual and fuel filler specifications capping fuel at E10. The advisory supersedes earlier manual wording for BS VI vehicles only.",
-        "title": "Mercedes-Benz India E20 Fuel Compatibility Advisory",
+        "supportingText": "SECONDARY ATTRIBUTION: the direct Mercedes-Benz India statement and model-level certificates were not located. This report is context only and cannot establish compatibility, certification or warranty for a specific vehicle.",
+        "title": "Free Press Journal report on a Mercedes-Benz India E20 statement",
         "url": "https://www.freepressjournal.in/india/mercedes-benz-india-clarifies-e20-fuel-compatibility-after-viral-mileage-claims-spark-debate"
       },
       {
@@ -9588,7 +9588,7 @@
     "productionStart": "2025-01",
     "productionStartDate": "2025-01-01",
     "publishedKmpl": null,
-    "recordTimestamp": "2026-07-29T02:03:56Z",
+    "recordTimestamp": "2026-07-29T02:20:44Z",
     "sources": [
       {
         "dateLabel": "Published",
@@ -9621,15 +9621,15 @@
       {
         "dateLabel": "Published",
         "id": "src_mercedes_india_advisory_july_2026",
-        "issuer": "Mercedes-Benz India Pvt. Ltd.",
+        "issuer": "Free Press Journal reporting a Mercedes-Benz India statement",
         "issuerType": "secondary",
         "primarySource": false,
         "publishedDate": "2026-07-12",
         "retrievedDate": "2026-07-24",
-        "scope": "Mercedes-Benz India official advisory (July 12, 2026) issued via press coverage and Mercedes-Benz India's official X (Twitter) account. Official statement: 'All Mercedes-Benz petrol BS VI vehicles are materially compatible with E20 fuel and have been certified by the relevant authorities.' Scope: BS VI vehicles only (April 2023 manufacturing standard onwards). Applies to GLA C118, GLC C253, and GLC C205 vehicles manufactured from April 2023 onwards.",
+        "scope": "Free Press Journal attributes a broad E20 compatibility statement to Mercedes-Benz India in July 2026 after public mileage concerns.",
         "sourceType": "secondary_report",
-        "supportingText": "Advisory issued July 12, 2026 (12 days before pack research date of July 24, 2026). Statement explicitly limits scope to BS VI vehicles manufactured from April 2023 onwards under BS6 Phase 2 norms. Pre-April 2023 units (BS4) retain OEM manual and fuel filler specifications capping fuel at E10. The advisory supersedes earlier manual wording for BS VI vehicles only.",
-        "title": "Mercedes-Benz India E20 Fuel Compatibility Advisory",
+        "supportingText": "SECONDARY ATTRIBUTION: the direct Mercedes-Benz India statement and model-level certificates were not located. This report is context only and cannot establish compatibility, certification or warranty for a specific vehicle.",
+        "title": "Free Press Journal report on a Mercedes-Benz India E20 statement",
         "url": "https://www.freepressjournal.in/india/mercedes-benz-india-clarifies-e20-fuel-compatibility-after-viral-mileage-claims-spark-debate"
       }
     ],
