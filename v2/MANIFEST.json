@@ -1,13 +1,13 @@
 {
-  "catalogueVersion": "1.5.3",
-  "failedURLCount": 4,
-  "publishedDate": "2026-07-29T01:02:22Z",
+  "catalogueVersion": "1.5.4",
+  "failedURLCount": 0,
+  "publishedDate": "2026-07-29T02:14:30Z",
   "recordCount": 96,
   "schemaVersion": "2.0.0",
-  "sha256": "518340dac356020c5ffb5ac40fa4b4006feb74bbcefe9166a6398e23dd919a90",
-  "signature": "MEUCIQDwm7Zhhll9nPiwkR/nATdUZrZsird9nuz+/2msrarAxgIgFd+nU23NSWB6KVklleSrcxNPumHpM6j3LJklIbWqMoo=",
+  "sha256": "582a0bae97fcb6c0cf9319bbc5557acc49de18967e78cf80078432abb2d243cd",
+  "signature": "MEUCIQD9PzKMVk+9FXugclcri6EicYaUpUC1L2SK6BEpnWkvZAIgYLxzlURtraV90EwZdNEPUdXmZXWNU/Q4vn/KcytiqqM=",
   "signatureAlgorithm": "SHA256withECDSA",
   "signatureKeyId": "fuel-saathi-catalogue-2026-01",
-  "size": 973562,
+  "size": 889042,
   "sourcesCheckedDate": "2026-07-28"
 }
